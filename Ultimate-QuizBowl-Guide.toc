@@ -4,7 +4,7 @@
 \contentsline {section}{\numberline {2.2}Business}{3}{section.2.2}
 \contentsline {section}{\numberline {2.3}Politics}{3}{section.2.3}
 \contentsline {section}{\numberline {2.4}Science}{3}{section.2.4}
-\contentsline {chapter}{\numberline {3}Fine Arts}{5}{chapter.3}
+\contentsline {chapter}{\numberline {3}The Arts}{5}{chapter.3}
 \contentsline {section}{\numberline {3.1}Visual}{5}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Architecture}{5}{subsection.3.1.1}
 \contentsline {subsection}{\numberline {3.1.2}Sculpture}{5}{subsection.3.1.2}
@@ -109,18 +109,21 @@
 \contentsline {section}{\numberline {9.4}Computer Science}{19}{section.9.4}
 \contentsline {section}{\numberline {9.5}Earth Science}{20}{section.9.5}
 \contentsline {subsection}{\numberline {9.5.1}Geology}{20}{subsection.9.5.1}
-\contentsline {subsubsection}{Vulcanology}{20}{section*.41}
-\contentsline {paragraph}{Introduction to Vulcanology}{20}{section*.42}
-\contentsline {paragraph}{World Volcanoes}{20}{section*.43}
-\contentsline {paragraph}{Hawaiian Volcanoes}{21}{section*.44}
-\contentsline {subparagraph}{Introduction to the Hawaiian Volcanoes}{21}{section*.45}
-\contentsline {subparagraph}{Kilauea}{22}{section*.46}
-\contentsline {subparagraph}{Mauna Loa}{23}{section*.47}
-\contentsline {subparagraph}{Mauna Kea}{24}{section*.48}
-\contentsline {subparagraph}{Hual\=alai}{25}{section*.49}
-\contentsline {subparagraph}{Kohala}{25}{section*.50}
-\contentsline {subparagraph}{Hale'akala}{25}{section*.51}
-\contentsline {subparagraph}{Lo'ih\=i}{25}{section*.52}
+\contentsline {subsubsection}{Geologic Time}{20}{section*.41}
+\contentsline {subsubsection}{Extinction Level Events}{20}{section*.42}
+\contentsline {subsubsection}{Vulcanology}{20}{section*.43}
+\contentsline {paragraph}{Introduction to Vulcanology}{20}{section*.44}
+\contentsline {paragraph}{Supervolcanoes}{20}{section*.45}
+\contentsline {paragraph}{World Volcanoes}{20}{section*.46}
+\contentsline {paragraph}{Hawaiian Volcanoes}{21}{section*.47}
+\contentsline {subparagraph}{Introduction to the Hawaiian Volcanoes}{21}{section*.48}
+\contentsline {subparagraph}{Kilauea}{22}{section*.49}
+\contentsline {subparagraph}{Mauna Loa}{23}{section*.50}
+\contentsline {subparagraph}{Mauna Kea}{24}{section*.51}
+\contentsline {subparagraph}{Hual\=alai}{25}{section*.52}
+\contentsline {subparagraph}{Kohala}{25}{section*.53}
+\contentsline {subparagraph}{Hale'akala}{25}{section*.54}
+\contentsline {subparagraph}{Lo'ih\=i}{25}{section*.55}
 \contentsline {subsection}{\numberline {9.5.2}Forensic Science}{25}{subsection.9.5.2}
 \contentsline {subsection}{\numberline {9.5.3}Meteorology}{25}{subsection.9.5.3}
 \contentsline {subsection}{\numberline {9.5.4}Oceanography}{25}{subsection.9.5.4}
@@ -128,9 +131,9 @@
 \contentsline {subsection}{\numberline {9.6.1}Classical Physics}{25}{subsection.9.6.1}
 \contentsline {subsection}{\numberline {9.6.2}Thermodynamics}{25}{subsection.9.6.2}
 \contentsline {subsection}{\numberline {9.6.3}Modern Physics}{25}{subsection.9.6.3}
-\contentsline {paragraph}{Modern Physics Principles}{25}{section*.53}
-\contentsline {paragraph}{Atomic and Nuclear Physics}{26}{section*.54}
-\contentsline {paragraph}{Famous Modern Physics Experiments}{26}{section*.55}
+\contentsline {paragraph}{Modern Physics Principles}{25}{section*.56}
+\contentsline {paragraph}{Atomic and Nuclear Physics}{26}{section*.57}
+\contentsline {paragraph}{Famous Modern Physics Experiments}{26}{section*.58}
 \contentsline {chapter}{\numberline {10}Social Science}{27}{chapter.10}
 \contentsline {section}{\numberline {10.1}Economics}{27}{section.10.1}
 \contentsline {subsection}{\numberline {10.1.1}Historical Economics}{27}{subsection.10.1.1}
@@ -141,9 +144,9 @@
 \contentsline {section}{\numberline {11.1}Professional}{29}{section.11.1}
 \contentsline {subsection}{\numberline {11.1.1}Baseball}{30}{subsection.11.1.1}
 \contentsline {subsection}{\numberline {11.1.2}Teams}{30}{subsection.11.1.2}
-\contentsline {subsubsection}{All Time Records as of October 4, 2019}{31}{section*.56}
+\contentsline {subsubsection}{All Time Records as of October 6, 2019}{31}{section*.59}
 \contentsline {subsection}{\numberline {11.1.3}Basketball}{32}{subsection.11.1.3}
-\contentsline {subsubsection}{All Time Records as of October 4, 2019}{32}{section*.57}
+\contentsline {subsubsection}{All Time Records as of October 6, 2019}{32}{section*.60}
 \contentsline {subsection}{\numberline {11.1.4}Boxing}{33}{subsection.11.1.4}
 \contentsline {subsection}{\numberline {11.1.5}Car Racing}{33}{subsection.11.1.5}
 \contentsline {subsection}{\numberline {11.1.6}Curling}{33}{subsection.11.1.6}
