@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2019.4.2)  18 OCT 2019 07:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2019.4.2)  16 DEC 2019 09:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -283,37 +283,55 @@ LaTeX Info: Redefining \Cpagerefrange on input line 2230.
 LaTeX Info: Redefining \labelcref on input line 2230.
 LaTeX Info: Redefining \labelcpageref on input line 2230.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip48
+\LTright=\skip49
+\LTpre=\skip50
+\LTpost=\skip51
+\LTchunksize=\count114
+\LTcapwidth=\dimen129
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@cols=\count115
+\LT@rows=\count116
+\c@LT@tables=\count117
+\c@LT@chunks=\count118
+\LT@p@ftn=\toks17
+)
 (./Ultimate-QuizBowl-Guide.aux)
 \openout1 = `Ultimate-QuizBowl-Guide.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count114
-\scratchdimen=\dimen129
-\scratchbox=\box53
-\nofMPsegments=\count115
-\nofMParguments=\count116
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count117
-\MPscratchDim=\dimen130
-\MPnumerator=\count118
-\makeMPintoPDFobject=\count119
-\everyMPtoPDFconversion=\toks18
+\scratchcounter=\count119
+\scratchdimen=\dimen130
+\scratchbox=\box57
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen131
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks19
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -365,45 +383,45 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 12.
+\AtBeginShipoutBox=\box58
+Package hyperref Info: Link coloring OFF on input line 14.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count120
+\c@section@level=\count125
 )
-LaTeX Info: Redefining \ref on input line 12.
-LaTeX Info: Redefining \pageref on input line 12.
-LaTeX Info: Redefining \nameref on input line 12.
+LaTeX Info: Redefining \ref on input line 14.
+LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \nameref on input line 14.
 
 (./Ultimate-QuizBowl-Guide.out) (./Ultimate-QuizBowl-Guide.out)
 \@outlinefile=\write3
 \openout3 = `Ultimate-QuizBowl-Guide.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 20.
+(Font)              <14.4> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 20.
+(Font)              <7> on input line 22.
  [1
 
 
 
 {/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for T1+phv on input line 22.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 22.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsphv.fd
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/b/n' in size <24.88> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 22.
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 24.
  [2]
 (./Ultimate-QuizBowl-Guide.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -444,98 +462,152 @@ Underfull \vbox (badness 4913) has occurred while \output is active []
 
 ]
 Chapter 3.
-[7] [8]
+[7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+Overfull \vbox (10.26512pt too high) has occurred while \output is active []
+
+
+[9] [10]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 68.
- [9] [10]) (./Chapters/Ch4-geography.tex [11] [12
+(Font)              <5> on input line 88.
+ [11] [12]) (./Chapters/Ch4-geography.tex [13] [14
 
 ]
 Chapter 4.
-[13]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14])
-(./Chapters/Ch5-History.tex
-Underfull \vbox (badness 4291) has occurred while \output is active []
+Overfull \hbox (23.76707pt too wide) in alignment at lines 3--38
+ [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 38
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15]
 [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+[18]) (./Chapters/Ch5-History.tex [19] [20]
 Chapter 5.
-[17
+[21
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [18]
-[19]) (./Chapters/Ch6-Literature.tex [20] [21] [22
+ [22]
+[23] [24]
+Overfull \hbox (50.25993pt too wide) in paragraph at lines 81--139
+[] 
+ []
+
+[25]) (./Chapters/Ch6-Literature.tex [26]
+Chapter 6.
+[27
 
 ]
-Chapter 6.
-[23]
-Overfull \hbox (1.21382pt too wide) in paragraph at lines 29--30
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+[]|\T1/cmr/m/n/12 Gabriel Gar-cia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]|\T1/cmr/m/n/12 The Hand-maid's
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 55
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\T1/cmr/m/n/12 A River runs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\T1/cmr/m/n/12 Slaughterhouse-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]|\T1/cmr/m/n/12 A Tale of Two
+ []
+
+[28] [29] [30] [31]
+Overfull \hbox (1.21382pt too wide) in paragraph at lines 151--152
 []\T1/cmr/m/n/12 Deuteronomy - the Is-raelites wan-der in the desert, and fi-na
 lly come to the promised
  []
 
-[24]) (./Chapters/Ch7-Mythology.tex [25] [26
+[32]) (./Chapters/Ch7-Mythology.tex [33] [34
 
 ]
 Chapter 7.
-) (./Chapters/Ch8-Popculture.tex [27] [28
+) (./Chapters/Ch8-Popculture.tex [35] [36
 
 ]
 Chapter 8.
-) (./Chapters/Ch9-Science.tex [29] [30
+) (./Chapters/Ch9-Science.tex [37] [38
 
 ]
 Chapter 9.
-[31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41])
-(./Chapters/Ch10-Socialscience.tex [42]
-Chapter 10.
-) (./Chapters/Ch11-Sports.tex [43
+[39] [40]
+Underfull \vbox (badness 10000) detected at line 80
+ []
 
-] [44
+[41] [42] [43] [44] [45] [46] [47] [48] [49])
+(./Chapters/Ch10-Socialscience.tex [50]
+Chapter 10.
+) (./Chapters/Ch11-Sports.tex [51
+
+] [52
 
 ]
 Chapter 11.
-[45] [46] [47]
+[53] [54] [55]
 Overfull \hbox (3.97397pt too wide) in paragraph at lines 193--243
  [] 
  []
 
-[48]
+[56]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [49]
-[50] [51]
+ [57]
+[58] [59]
 Underfull \vbox (badness 1424) has occurred while \output is active []
 
- [52]
-[53]) (./Chapters/Ch12-Theologyandphilosophy.tex [54]
+ [60]
+[61]) (./Chapters/Ch12-Theologyandphilosophy.tex [62]
 Chapter 12.
-[55
+[63
 
-]) (./Chapters/Ch13-Misc.tex [56]
+]) (./Chapters/Ch13-Misc.tex [64]
 Chapter 13.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
- [57
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
+ [65
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
  (./Ultimate-QuizBowl-Guide.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
 Package rerunfilecheck Info: File `Ultimate-QuizBowl-Guide.out' has not changed
 .
-(rerunfilecheck)             Checksum: 1C905DAFB15FA5259B9934ECC672A1A0;10659.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
+(rerunfilecheck)             Checksum: 1D80C8DC8C35821409E931D56B750E23;10995.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
  ) 
 Here is how much of TeX's memory you used:
- 8419 strings out of 493039
- 133109 string characters out of 6136944
- 245974 words of memory out of 5000000
- 11235 multiletter control sequences out of 15000+600000
+ 8577 strings out of 493039
+ 134965 string characters out of 6136944
+ 252974 words of memory out of 5000000
+ 11327 multiletter control sequences out of 15000+600000
  32330 words of font info for 50 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  41i,10n,31p,634b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -558,10 +630,10 @@ s/type1/public/cm-super/sfrm2074.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /cm-super/sfsl1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-sup
 er/sfti1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.
 pfb>
-Output written on Ultimate-QuizBowl-Guide.pdf (65 pages, 342525 bytes).
+Output written on Ultimate-QuizBowl-Guide.pdf (73 pages, 367162 bytes).
 PDF statistics:
- 1723 PDF objects out of 1728 (max. 8388607)
- 1621 compressed objects within 17 object streams
- 608 named destinations out of 1000 (max. 500000)
- 1329 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1851 PDF objects out of 2073 (max. 8388607)
+ 1740 compressed objects within 18 object streams
+ 671 named destinations out of 1000 (max. 500000)
+ 1369 words of extra memory for PDF output out of 10000 (max. 10000000)
 
