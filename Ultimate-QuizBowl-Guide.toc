@@ -1,589 +1,591 @@
-\contentsline {chapter}{\numberline {1}Introduction}{7}{chapter.1}
-\contentsline {chapter}{\numberline {2}Current Events}{9}{chapter.2}
-\contentsline {section}{\numberline {2.1}Introduction to Current Events}{9}{section.2.1}
-\contentsline {section}{\numberline {2.2}Business and Economics}{9}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}US-China Trade War}{9}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Fed Policy}{10}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Cryptocurrency and Blockchain}{10}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Gig Economy}{10}{subsection.2.2.4}
-\contentsline {subsection}{\numberline {2.2.5}Retail Apocalypse}{11}{subsection.2.2.5}
-\contentsline {section}{\numberline {2.3}Politics}{11}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Scandals}{11}{subsection.2.3.1}
-\contentsline {subsubsection}{Scandals involving Donald Trump}{11}{section*.2}
-\contentsline {paragraph}{Stormy Daniels}{11}{section*.3}
-\contentsline {paragraph}{Russian Interference into Elections and the Muller Report}{11}{section*.4}
-\contentsline {paragraph}{Ukrainian Aid, Whistleblower, and Impeachment}{11}{section*.5}
-\contentsline {subsubsection}{Scandals involving other US Politicians}{11}{section*.6}
-\contentsline {paragraph}{Joe and Hunter Biden}{11}{section*.7}
-\contentsline {paragraph}{Jeffery Epstein}{11}{section*.8}
-\contentsline {paragraph}{Hillary Clinton}{11}{section*.9}
-\contentsline {subsection}{\numberline {2.3.2}Foreign relations}{11}{subsection.2.3.2}
-\contentsline {subsubsection}{North Korea}{11}{section*.10}
-\contentsline {subsubsection}{Iran}{11}{section*.11}
-\contentsline {paragraph}{The Killing of Qassim Soleimani}{11}{section*.12}
-\contentsline {subsubsection}{Libya and Turkey}{12}{section*.13}
-\contentsline {subsubsection}{China and Hong Kong}{12}{section*.14}
-\contentsline {subsubsection}{Latin America}{12}{section*.15}
-\contentsline {section}{\numberline {2.4}Science}{12}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Astronomy}{12}{subsection.2.4.1}
-\contentsline {subsubsection}{Imaging of a Black Hole}{12}{section*.16}
-\contentsline {subsubsection}{Mauna Kea Protests and TMT}{12}{section*.17}
-\contentsline {subsubsection}{Omuamua and C/2019 Q4 Borisov}{12}{section*.18}
-\contentsline {subsubsection}{Saturn's Moons}{12}{section*.19}
-\contentsline {subsubsection}{Frame-Dragging of a Pulsar}{12}{section*.20}
-\contentsline {subsection}{\numberline {2.4.2}Biology}{12}{subsection.2.4.2}
-\contentsline {subsubsection}{Coronavirus}{12}{section*.21}
-\contentsline {subsubsection}{CRISPR}{13}{section*.22}
-\contentsline {subsection}{\numberline {2.4.3}Chemistry}{13}{subsection.2.4.3}
-\contentsline {subsection}{\numberline {2.4.4}Physics}{13}{subsection.2.4.4}
-\contentsline {subsection}{\numberline {2.4.5}Geology}{13}{subsection.2.4.5}
-\contentsline {subsubsection}{Whakaari/White Island}{13}{section*.23}
-\contentsline {chapter}{\numberline {3}The Arts}{15}{chapter.3}
-\contentsline {section}{\numberline {3.1}Visual}{15}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Architecture}{15}{subsection.3.1.1}
-\contentsline {subsubsection}{Antoni Gaud\'{i}}{15}{section*.24}
-\contentsline {subsubsection}{Frank Lloyd Wright}{15}{section*.25}
-\contentsline {subsubsection}{Mies Van der Rohe}{15}{section*.26}
-\contentsline {subsubsection}{Philip Johnson}{15}{section*.27}
-\contentsline {subsubsection}{Eero Saarinen}{15}{section*.28}
-\contentsline {subsubsection}{Richard Rogers}{15}{section*.29}
-\contentsline {subsubsection}{Frank Gehry}{15}{section*.30}
-\contentsline {subsubsection}{Norman Foster}{15}{section*.31}
-\contentsline {subsubsection}{Renzo Piano}{15}{section*.32}
-\contentsline {subsubsection}{Santiago Calatrava}{15}{section*.33}
-\contentsline {subsubsection}{Zaha Hadid}{15}{section*.34}
-\contentsline {subsubsection}{Oscar Niemeyer}{15}{section*.35}
-\contentsline {subsubsection}{Rem Koolhas}{15}{section*.36}
-\contentsline {subsubsection}{Jeanne Gang}{15}{section*.37}
-\contentsline {subsubsection}{Shigeru Ban}{15}{section*.38}
-\contentsline {subsection}{\numberline {3.1.2}Sculpture}{16}{subsection.3.1.2}
-\contentsline {subsubsection}{Michelangelo}{16}{section*.39}
-\contentsline {subsubsection}{Gianlorenzo Bernini}{16}{section*.40}
-\contentsline {subsubsection}{Sandro Botticelli}{16}{section*.41}
-\contentsline {paragraph}{The Birth of Venus}{16}{section*.42}
-\contentsline {subsubsection}{Auguste Rodin}{16}{section*.43}
-\contentsline {paragraph}{The Thinker}{16}{section*.44}
-\contentsline {paragraph}{The Gates of Hell}{16}{section*.45}
-\contentsline {subsubsection}{Marciel Duchamp}{17}{section*.46}
-\contentsline {subsubsection}{Constantin Brancusi}{17}{section*.47}
-\contentsline {subsubsection}{Alberto Giacometti}{17}{section*.48}
-\contentsline {subsubsection}{Henry Moore}{17}{section*.49}
-\contentsline {subsubsection}{Sol LeWitt}{17}{section*.50}
-\contentsline {subsubsection}{Louise Bourgeois}{17}{section*.51}
-\contentsline {subsection}{\numberline {3.1.3}Painting}{17}{subsection.3.1.3}
-\contentsline {subsubsection}{William Blake}{17}{section*.52}
-\contentsline {subsubsection}{Caravaggio}{17}{section*.53}
-\contentsline {subsubsection}{Salvador Dali}{17}{section*.54}
-\contentsline {subsubsection}{Eugene Delacroix}{17}{section*.55}
-\contentsline {paragraph}{The Persistance of Memory}{17}{section*.56}
-\contentsline {subsubsection}{Marciel Duchamp}{17}{section*.57}
-\contentsline {subsubsection}{El Greco}{17}{section*.58}
-\contentsline {subsubsection}{Francisco Goya}{17}{section*.59}
-\contentsline {subsubsection}{Hokusai}{17}{section*.60}
-\contentsline {paragraph}{Thirty-Six Views of Mount Fuji}{17}{section*.61}
-\contentsline {subparagraph}{The Great Wave off Kanagawa}{17}{section*.62}
-\contentsline {subsubsection}{Edward Hopper}{17}{section*.63}
-\contentsline {paragraph}{Nighthawks}{17}{section*.64}
-\contentsline {subsubsection}{Monet}{17}{section*.65}
-\contentsline {paragraph}{Impression: Sunrise}{17}{section*.66}
-\contentsline {subsubsection}{Edvard Munch}{17}{section*.67}
-\contentsline {paragraph}{The Scream}{17}{section*.68}
-\contentsline {subsubsection}{Pablo Picasso}{18}{section*.69}
-\contentsline {paragraph}{Guernica}{18}{section*.70}
-\contentsline {subsubsection}{Rembrant}{18}{section*.71}
-\contentsline {paragraph}{The Night Watch}{18}{section*.72}
-\contentsline {subsubsection}{Georges Seurat}{18}{section*.73}
-\contentsline {paragraph}{A Sunday on La Grande Jatte}{18}{section*.74}
-\contentsline {subsubsection}{Vincent VanGogh}{18}{section*.75}
-\contentsline {paragraph}{The Starry Night}{18}{section*.76}
-\contentsline {subsubsection}{Andy Warhol}{18}{section*.77}
-\contentsline {paragraph}{Campbell's Soup Cans}{18}{section*.78}
-\contentsline {subsubsection}{Grant Wood}{18}{section*.79}
-\contentsline {paragraph}{American Gothic}{18}{section*.80}
-\contentsline {subsection}{\numberline {3.1.4}Other}{18}{subsection.3.1.4}
-\contentsline {section}{\numberline {3.2}Performing}{18}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Plays}{18}{subsection.3.2.1}
-\contentsline {subsubsection}{Greek}{18}{section*.81}
-\contentsline {subsubsection}{Shakespeare}{18}{section*.82}
-\contentsline {subsubsection}{Modern Plays}{18}{section*.83}
-\contentsline {subsubsection}{Arthur Miller}{18}{section*.84}
-\contentsline {subsection}{\numberline {3.2.2}Operas}{18}{subsection.3.2.2}
-\contentsline {paragraph}{Gilbert and Sullivan}{18}{section*.85}
-\contentsline {subparagraph}{HMS Pinafore}{18}{section*.86}
-\contentsline {subparagraph}{The Pirates of Penzance}{19}{section*.87}
-\contentsline {subparagraph}{The Mikado}{19}{section*.88}
-\contentsline {subsection}{\numberline {3.2.3}Musicals}{20}{subsection.3.2.3}
-\contentsline {paragraph}{Leonard Bernstein}{20}{section*.89}
-\contentsline {paragraph}{Frederick Loewe}{20}{section*.90}
-\contentsline {paragraph}{Cole Porter}{20}{section*.91}
-\contentsline {paragraph}{Rogers and Hammerstein}{20}{section*.92}
-\contentsline {paragraph}{Andrew LLoyd Webber}{20}{section*.93}
-\contentsline {subsection}{\numberline {3.2.4}Music}{20}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Religious}{20}{subsection.3.2.5}
-\contentsline {paragraph}{Chant}{20}{section*.94}
-\contentsline {subparagraph}{Te Deum}{21}{section*.95}
-\contentsline {subparagraph}{Let All Mortal Flesh Keep Silence}{21}{section*.96}
-\contentsline {subparagraph}{Phos Hilaron (Lumen Hilare)}{21}{section*.97}
-\contentsline {subparagraph}{Pange, lingua}{21}{section*.98}
-\contentsline {subparagraph}{Dies Irae}{21}{section*.99}
-\contentsline {paragraph}{Religious Hymns}{21}{section*.100}
-\contentsline {subparagraph}{A Mighty Fortress is our God}{21}{section*.101}
-\contentsline {subparagraph}{Amazing Grace}{21}{section*.102}
-\contentsline {subparagraph}{How Great Thou Art}{21}{section*.103}
-\contentsline {subsubsection}{Classical}{21}{section*.104}
-\contentsline {paragraph}{Composers}{21}{section*.105}
-\contentsline {subparagraph}{Beethoven}{21}{section*.106}
-\contentsline {subparagraph}{Mozart}{21}{section*.107}
-\contentsline {subparagraph}{Bach}{21}{section*.108}
-\contentsline {subparagraph}{Brahms}{21}{section*.109}
-\contentsline {subparagraph}{Holst}{21}{section*.110}
-\contentsline {subparagraph}{Hayden}{21}{section*.111}
-\contentsline {subparagraph}{Chopin}{21}{section*.112}
-\contentsline {subparagraph}{Dvorak}{21}{section*.113}
-\contentsline {subparagraph}{Handel}{21}{section*.114}
-\contentsline {subparagraph}{Tchaikovsky}{21}{section*.115}
-\contentsline {subparagraph}{Aaron Copland}{22}{section*.116}
-\contentsline {paragraph}{Themes Contained in Songs}{22}{section*.117}
-\contentsline {subparagraph}{Beethoven's 9th}{22}{section*.118}
-\contentsline {subparagraph}{Aaron Copeland's Appalacian Spring}{22}{section*.119}
-\contentsline {subsubsection}{Songs of the Civil War}{23}{section*.120}
-\contentsline {paragraph}{When Johnny Comes Marching Home}{23}{section*.121}
-\contentsline {paragraph}{John Brown's Body}{23}{section*.122}
-\contentsline {paragraph}{Follow the Drinking Gourd}{23}{section*.123}
-\contentsline {paragraph}{Lincoln and Liberty Too}{23}{section*.124}
-\contentsline {paragraph}{Bonny Blue Flag}{23}{section*.125}
-\contentsline {paragraph}{Battle Cry of Freedom}{23}{section*.126}
-\contentsline {paragraph}{Goober Peas}{23}{section*.127}
-\contentsline {paragraph}{Marching Through Georgia}{23}{section*.128}
-\contentsline {paragraph}{Battle Hymn of the Republic}{23}{section*.129}
-\contentsline {subsubsection}{Ragtime}{23}{section*.130}
-\contentsline {paragraph}{The Entertainer}{23}{section*.131}
-\contentsline {paragraph}{Maple Leaf Rag}{23}{section*.132}
-\contentsline {subsubsection}{Jazz}{23}{section*.133}
-\contentsline {paragraph}{Rhapsody in Blue}{23}{section*.134}
-\contentsline {subsubsection}{Rock}{23}{section*.135}
-\contentsline {subsubsection}{Techno}{23}{section*.136}
-\contentsline {chapter}{\numberline {4}Geography}{25}{chapter.4}
-\contentsline {section}{\numberline {4.1}General World Geography}{25}{section.4.1}
-\contentsline {section}{\numberline {4.2}Continents}{25}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Africa}{25}{subsection.4.2.1}
-\contentsline {subsubsection}{Random Trivia}{25}{section*.137}
-\contentsline {subsection}{\numberline {4.2.2}Antarctica}{26}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Asia}{26}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Australia and Oceania}{26}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}Europe}{26}{subsection.4.2.5}
-\contentsline {subsection}{\numberline {4.2.6}North America}{26}{subsection.4.2.6}
-\contentsline {subsubsection}{Canada}{26}{section*.138}
-\contentsline {paragraph}{By Provinces and Territories}{26}{section*.139}
-\contentsline {paragraph}{Rivers, Lakes, and Bodies of Water}{26}{section*.140}
-\contentsline {subsubsection}{Mexico}{26}{section*.141}
-\contentsline {paragraph}{By States and Territories}{26}{section*.142}
-\contentsline {paragraph}{Rivers, Lakes, and Bodies of Water}{26}{section*.143}
-\contentsline {subsubsection}{United States}{27}{section*.144}
-\contentsline {paragraph}{By States and Territories}{27}{section*.145}
-\contentsline {paragraph}{UNESCO World Heritage Sites:}{29}{section*.146}
-\contentsline {paragraph}{Rivers, Lakes, and Bodies of Water}{35}{section*.147}
-\contentsline {subparagraph}{The Great Lakes}{35}{section*.148}
-\contentsline {subparagraph}{Other Lakes}{35}{section*.149}
-\contentsline {subparagraph}{Rivers}{35}{section*.150}
-\contentsline {subsection}{\numberline {4.2.7}South America}{35}{subsection.4.2.7}
-\contentsline {section}{\numberline {4.3}Oceans}{35}{section.4.3}
-\contentsline {subsubsection}{Atlantic}{36}{section*.151}
-\contentsline {subsubsection}{Arctic}{36}{section*.152}
-\contentsline {subsubsection}{Indian}{36}{section*.153}
-\contentsline {subsubsection}{Pacific}{36}{section*.154}
-\contentsline {subsubsection}{Southern}{36}{section*.155}
-\contentsline {chapter}{\numberline {5}History}{37}{chapter.5}
-\contentsline {section}{\numberline {5.1}Ancient History}{37}{section.5.1}
-\contentsline {section}{\numberline {5.2}American History}{37}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}American Prehistory}{37}{subsection.5.2.1}
-\contentsline {subsubsection}{Geology of North America}{37}{section*.156}
-\contentsline {paragraph}{Glaciers}{37}{section*.157}
-\contentsline {paragraph}{Lake Agassiz}{37}{section*.158}
-\contentsline {subsubsection}{Megafauna}{37}{section*.159}
-\contentsline {paragraph}{Wooly Mamoth}{37}{section*.160}
-\contentsline {paragraph}{Mastodon}{37}{section*.161}
-\contentsline {paragraph}{Smilodon}{37}{section*.162}
-\contentsline {paragraph}{Gylptodon}{37}{section*.163}
-\contentsline {paragraph}{Giant Sloths}{37}{section*.164}
-\contentsline {paragraph}{Dire Wolf}{37}{section*.165}
-\contentsline {subsection}{\numberline {5.2.2}Early Humans in North America}{38}{subsection.5.2.2}
-\contentsline {subsubsection}{Bearing Land Bridge}{38}{section*.166}
-\contentsline {subsubsection}{Clovis culture}{38}{section*.167}
-\contentsline {subsubsection}{Native American Tribes}{38}{section*.168}
-\contentsline {subsection}{\numberline {5.2.3}Colonial America}{38}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}American Revolution}{38}{subsection.5.2.4}
-\contentsline {subsection}{\numberline {5.2.5}America under the Articles of Confederation}{38}{subsection.5.2.5}
-\contentsline {subsection}{\numberline {5.2.6}From the Constitution to the War of 1812}{38}{subsection.5.2.6}
-\contentsline {subsection}{\numberline {5.2.7}War of 1812}{38}{subsection.5.2.7}
-\contentsline {subsection}{\numberline {5.2.8}From 1812 to the Civil War}{38}{subsection.5.2.8}
-\contentsline {subsubsection}{Texas Revolution}{38}{section*.169}
-\contentsline {subsection}{\numberline {5.2.9}Civil War}{38}{subsection.5.2.9}
-\contentsline {subsubsection}{John Brown's Raid}{38}{section*.170}
-\contentsline {subsubsection}{Secession and Ft. Sumter}{39}{section*.171}
-\contentsline {subsubsection}{Battles}{39}{section*.172}
-\contentsline {subsection}{\numberline {5.2.10}Reconstruction}{39}{subsection.5.2.10}
-\contentsline {subsection}{\numberline {5.2.11}From Reconstruction to Spanish American War}{39}{subsection.5.2.11}
-\contentsline {subsection}{\numberline {5.2.12}Spanish American War}{39}{subsection.5.2.12}
-\contentsline {subsection}{\numberline {5.2.13}From The Spanish American War to World War I}{39}{subsection.5.2.13}
-\contentsline {subsection}{\numberline {5.2.14}World War I}{39}{subsection.5.2.14}
-\contentsline {subsection}{\numberline {5.2.15}From World War 1 to the The Great Depression}{39}{subsection.5.2.15}
-\contentsline {subsection}{\numberline {5.2.16}The Great Depression}{39}{subsection.5.2.16}
-\contentsline {subsection}{\numberline {5.2.17}World War II}{39}{subsection.5.2.17}
-\contentsline {subsubsection}{The Cold War}{39}{section*.173}
-\contentsline {subsection}{\numberline {5.2.18}1990's to Present}{39}{subsection.5.2.18}
-\contentsline {subsection}{\numberline {5.2.19}Presidents}{39}{subsection.5.2.19}
-\contentsline {subsection}{\numberline {5.2.20}Supreme Court Cases}{40}{subsection.5.2.20}
-\contentsline {subsubsection}{Marbury v Madison}{40}{section*.174}
-\contentsline {subsubsection}{McCulloch v Maryland}{40}{section*.175}
-\contentsline {subsubsection}{Gibbons v Ogden}{40}{section*.176}
-\contentsline {subsubsection}{Dred Scott v Sanford}{40}{section*.177}
-\contentsline {subsubsection}{Plessy v Ferguson}{40}{section*.178}
-\contentsline {subsubsection}{Schenck v United States}{40}{section*.179}
-\contentsline {subsubsection}{Brown v Board of Education}{40}{section*.180}
-\contentsline {subsubsection}{Miranda v Arizona}{40}{section*.181}
-\contentsline {subsubsection}{Roe v Wade}{40}{section*.182}
-\contentsline {subsubsection}{Texas v Johnson}{40}{section*.183}
-\contentsline {subsubsection}{Obergefell v Hodges}{40}{section*.184}
-\contentsline {subsection}{\numberline {5.2.21}Congress}{40}{subsection.5.2.21}
-\contentsline {section}{\numberline {5.3}European History}{40}{section.5.3}
-\contentsline {section}{\numberline {5.4}Religious History}{40}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Judaism}{40}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Christianity}{40}{subsection.5.4.2}
-\contentsline {subsubsection}{Foundations}{40}{section*.185}
-\contentsline {subsubsection}{Eccumenical Councils of the [Catholic] Church}{41}{section*.186}
-\contentsline {subsubsection}{The Great Scism of 1054}{42}{section*.187}
-\contentsline {subsubsection}{The Protestant Reformation}{42}{section*.188}
-\contentsline {paragraph}{Martin Luther}{42}{section*.189}
-\contentsline {paragraph}{John Wesley}{42}{section*.190}
-\contentsline {paragraph}{John Calvin}{42}{section*.191}
-\contentsline {paragraph}{Henry VIII}{42}{section*.192}
-\contentsline {subsection}{\numberline {5.4.3}Islam}{42}{subsection.5.4.3}
-\contentsline {subsection}{\numberline {5.4.4}Buddhism}{42}{subsection.5.4.4}
-\contentsline {subsection}{\numberline {5.4.5}Hinduism}{42}{subsection.5.4.5}
-\contentsline {subsection}{\numberline {5.4.6}}{42}{subsection.5.4.6}
-\contentsline {section}{\numberline {5.5}World History}{42}{section.5.5}
-\contentsline {chapter}{\numberline {6}Literature}{43}{chapter.6}
-\contentsline {section}{\numberline {6.1}General Literature Trivia}{44}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Opening Lines}{44}{subsection.6.1.1}
-\contentsline {section}{\numberline {6.2}American Literature}{45}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Fiction}{45}{subsection.6.2.1}
-\contentsline {subsubsection}{William Faulkner}{45}{section*.193}
-\contentsline {paragraph}{A Rose for Emily}{45}{section*.194}
-\contentsline {paragraph}{As I Lay Dying}{45}{section*.195}
-\contentsline {paragraph}{Barn Burning}{45}{section*.196}
-\contentsline {paragraph}{Light in August}{45}{section*.197}
-\contentsline {paragraph}{The Hamlet}{45}{section*.198}
-\contentsline {subsubsection}{F. Scott Fitzgerald}{45}{section*.199}
-\contentsline {paragraph}{The Great Gatsby}{45}{section*.200}
-\contentsline {paragraph}{Tender is the Night}{46}{section*.201}
-\contentsline {paragraph}{This Side of Paradise}{46}{section*.202}
-\contentsline {subsubsection}{John Greene}{46}{section*.203}
-\contentsline {paragraph}{Looking For Alaska}{46}{section*.204}
-\contentsline {subsubsection}{Herman Melville}{46}{section*.205}
-\contentsline {paragraph}{Moby Dick}{46}{section*.206}
-\contentsline {subsubsection}{J. D. Salinger}{46}{section*.207}
-\contentsline {paragraph}{The Catcher in the Rye}{46}{section*.208}
-\contentsline {subsubsection}{Kurt Vonnegut}{46}{section*.209}
-\contentsline {paragraph}{Slaughterhouse-Five}{46}{section*.210}
-\contentsline {subsection}{\numberline {6.2.2}Nonfiction}{46}{subsection.6.2.2}
-\contentsline {subsubsection}{Silent Spring}{46}{section*.211}
-\contentsline {subsection}{\numberline {6.2.3}Poetry}{46}{subsection.6.2.3}
-\contentsline {section}{\numberline {6.3}European Literature}{46}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Fiction}{46}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}1984}{46}{subsection.6.3.2}
-\contentsline {subsubsection}{Animal Farm}{46}{section*.212}
-\contentsline {subsubsection}{Ulysses}{46}{section*.213}
-\contentsline {subsection}{\numberline {6.3.3}Nonfiction}{46}{subsection.6.3.3}
-\contentsline {subsubsection}{Mutiny on the Bounty}{46}{section*.214}
-\contentsline {subsection}{\numberline {6.3.4}Poetry}{47}{subsection.6.3.4}
-\contentsline {subsubsection}{William Blake}{47}{section*.215}
-\contentsline {paragraph}{The Tyger}{47}{section*.216}
-\contentsline {paragraph}{London}{47}{section*.217}
-\contentsline {paragraph}{The Lamb}{47}{section*.218}
-\contentsline {subsubsection}{Shakespeare}{47}{section*.219}
-\contentsline {section}{\numberline {6.4}Religious Literature}{48}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Abrahamic Religions}{48}{subsection.6.4.1}
-\contentsline {subsubsection}{Jewish}{48}{section*.220}
-\contentsline {paragraph}{Bible - Old Testamant)}{48}{section*.221}
-\contentsline {paragraph}{Talmud}{49}{section*.222}
-\contentsline {subsubsection}{Christian}{49}{section*.223}
-\contentsline {subsubsection}{Muslim}{49}{section*.224}
-\contentsline {paragraph}{Koran}{49}{section*.225}
-\contentsline {subsection}{\numberline {6.4.2}Eastern Religions}{49}{subsection.6.4.2}
-\contentsline {subsubsection}{Hindu}{49}{section*.226}
-\contentsline {subsubsection}{Buddhist}{49}{section*.227}
-\contentsline {subsection}{\numberline {6.4.3}Talmud}{49}{subsection.6.4.3}
-\contentsline {subsubsection}{title}{49}{section*.228}
-\contentsline {section}{\numberline {6.5}World Literature}{49}{section.6.5}
-\contentsline {chapter}{\numberline {7}Mythology}{51}{chapter.7}
-\contentsline {section}{\numberline {7.1}Greek/Roman}{51}{section.7.1}
-\contentsline {section}{\numberline {7.2}Egyptian}{51}{section.7.2}
-\contentsline {section}{\numberline {7.3}Hawaiian/Polynesian}{51}{section.7.3}
-\contentsline {section}{\numberline {7.4}Norse}{51}{section.7.4}
-\contentsline {section}{\numberline {7.5}Mezoamerican}{51}{section.7.5}
-\contentsline {section}{\numberline {7.6}Indian/South Asian}{51}{section.7.6}
-\contentsline {section}{\numberline {7.7}Chinese/Japanese/East Asian}{51}{section.7.7}
-\contentsline {section}{\numberline {7.8}Arthurian}{51}{section.7.8}
-\contentsline {chapter}{\numberline {8}Pop Culture}{53}{chapter.8}
-\contentsline {section}{\numberline {8.1}Pop Music}{53}{section.8.1}
-\contentsline {section}{\numberline {8.2}Entertainment}{53}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Video Games}{53}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Wrestling}{53}{subsection.8.2.2}
-\contentsline {chapter}{\numberline {9}Science}{55}{chapter.9}
-\contentsline {section}{\numberline {9.1}Astronomy}{55}{section.9.1}
-\contentsline {subsection}{\numberline {9.1.1}Astronomers}{55}{subsection.9.1.1}
-\contentsline {subsubsection}{Galileo}{55}{section*.229}
-\contentsline {subsubsection}{Copernicus}{55}{section*.230}
-\contentsline {subsubsection}{Kepler}{55}{section*.231}
-\contentsline {subsubsection}{Cassini}{55}{section*.232}
-\contentsline {subsubsection}{Edmund Halley}{55}{section*.233}
-\contentsline {subsubsection}{Huyguens}{55}{section*.234}
-\contentsline {subsubsection}{Clyde Tombaugh}{55}{section*.235}
-\contentsline {subsubsection}{Kuiper}{55}{section*.236}
-\contentsline {subsection}{\numberline {9.1.2}Constellations}{55}{subsection.9.1.2}
-\contentsline {subsubsection}{Zodiac}{55}{section*.237}
-\contentsline {subsubsection}{Other Constellations}{55}{section*.238}
-\contentsline {subsection}{\numberline {9.1.3}Cosmology}{55}{subsection.9.1.3}
-\contentsline {subsection}{\numberline {9.1.4}Solar System}{55}{subsection.9.1.4}
-\contentsline {subsubsection}{Planets}{55}{section*.239}
-\contentsline {paragraph}{Mercury}{55}{section*.240}
-\contentsline {paragraph}{Venus}{55}{section*.241}
-\contentsline {paragraph}{Earth}{55}{section*.242}
-\contentsline {paragraph}{Mars}{56}{section*.243}
-\contentsline {paragraph}{Jupiter}{56}{section*.244}
-\contentsline {paragraph}{Saturn}{56}{section*.245}
-\contentsline {paragraph}{Uranus}{56}{section*.246}
-\contentsline {paragraph}{Neptune}{56}{section*.247}
-\contentsline {subsubsection}{Dwarf Planets}{56}{section*.248}
-\contentsline {paragraph}{Pluto}{56}{section*.249}
-\contentsline {paragraph}{Eris}{56}{section*.250}
-\contentsline {paragraph}{MakeMake}{56}{section*.251}
-\contentsline {paragraph}{Haumea}{56}{section*.252}
-\contentsline {paragraph}{Ceres}{56}{section*.253}
-\contentsline {subsubsection}{Sol}{56}{section*.254}
-\contentsline {paragraph}{Age, Compostion and Size}{56}{section*.255}
-\contentsline {paragraph}{Sunspots}{56}{section*.256}
-\contentsline {paragraph}{Prominences, Solar Flares, and Coronal Mass Ejections}{56}{section*.257}
-\contentsline {paragraph}{Solar Wind and Solar Flux}{56}{section*.258}
-\contentsline {subsubsection}{Other Objects}{56}{section*.259}
-\contentsline {paragraph}{Comets}{56}{section*.260}
-\contentsline {subparagraph}{Halley's Comet}{56}{section*.261}
-\contentsline {subparagraph}{Comet McNaught}{57}{section*.262}
-\contentsline {subparagraph}{Hale-Bopp}{57}{section*.263}
-\contentsline {subparagraph}{Shoemaker-Levi 9}{57}{section*.264}
-\contentsline {paragraph}{Asteroids and Meteors}{57}{section*.265}
-\contentsline {paragraph}{Dwarf Planet Candidates}{57}{section*.266}
-\contentsline {subparagraph}{Sedna}{57}{section*.267}
-\contentsline {paragraph}{Interstellar Objects}{57}{section*.268}
-\contentsline {subsubsection}{Space Firsts}{57}{section*.269}
-\contentsline {subsubsection}{NASA}{57}{section*.270}
-\contentsline {paragraph}{Manned Missions}{57}{section*.271}
-\contentsline {subparagraph}{Mercury}{57}{section*.272}
-\contentsline {subparagraph}{Gemini}{57}{section*.273}
-\contentsline {subparagraph}{Apollo}{57}{section*.274}
-\contentsline {subparagraph}{Skylab}{57}{section*.275}
-\contentsline {subparagraph}{STS}{57}{section*.276}
-\contentsline {subparagraph}{ISS}{57}{section*.277}
-\contentsline {subparagraph}{SLS}{58}{section*.278}
-\contentsline {paragraph}{Unmanned Missions}{58}{section*.279}
-\contentsline {subparagraph}{Explorer}{58}{section*.280}
-\contentsline {subparagraph}{Pioneer}{58}{section*.281}
-\contentsline {subparagraph}{Echo}{58}{section*.282}
-\contentsline {subparagraph}{Ranger}{58}{section*.283}
-\contentsline {subparagraph}{Mariner}{58}{section*.284}
-\contentsline {subparagraph}{Viking}{58}{section*.285}
-\contentsline {subparagraph}{Voyager}{58}{section*.286}
-\contentsline {subparagraph}{Galileo}{58}{section*.287}
-\contentsline {subparagraph}{Ulyssees}{58}{section*.288}
-\contentsline {subparagraph}{Discovery}{58}{section*.289}
-\contentsline {subparagraph}{Cassini-Huygens}{58}{section*.290}
-\contentsline {subparagraph}{Messenger}{58}{section*.291}
-\contentsline {subparagraph}{New Horizons}{58}{section*.292}
-\contentsline {subparagraph}{Juno}{58}{section*.293}
-\contentsline {subparagraph}{Dawn}{58}{section*.294}
-\contentsline {subsubsection}{Russian Space Programs}{58}{section*.295}
-\contentsline {paragraph}{Manned}{58}{section*.296}
-\contentsline {paragraph}{Unmanned}{59}{section*.297}
-\contentsline {subparagraph}{Sputnik}{59}{section*.298}
-\contentsline {subsubsection}{Chinese Space Programs}{59}{section*.299}
-\contentsline {subsection}{\numberline {9.1.5}Stars}{59}{subsection.9.1.5}
-\contentsline {subsubsection}{Types}{59}{section*.300}
-\contentsline {paragraph}{Hertzsprung-Russel Diagrams}{59}{section*.301}
-\contentsline {paragraph}{Spectral Class}{59}{section*.302}
-\contentsline {subsection}{\numberline {9.1.6}Galaxies}{59}{subsection.9.1.6}
-\contentsline {subsection}{\numberline {9.1.7}Telescopes}{59}{subsection.9.1.7}
-\contentsline {section}{\numberline {9.2}Biology}{59}{section.9.2}
-\contentsline {subsection}{\numberline {9.2.1}Microbiology}{59}{subsection.9.2.1}
-\contentsline {subsubsection}{Cells}{59}{section*.303}
-\contentsline {paragraph}{Organelles}{59}{section*.304}
-\contentsline {subsection}{\numberline {9.2.2}Macrobiology}{59}{subsection.9.2.2}
-\contentsline {subsubsection}{Anatomy}{59}{section*.305}
-\contentsline {subsubsection}{Taxonomy}{59}{section*.306}
-\contentsline {section}{\numberline {9.3}Chemistry}{59}{section.9.3}
-\contentsline {section}{\numberline {9.4}Computer Science}{59}{section.9.4}
-\contentsline {section}{\numberline {9.5}Earth Science}{60}{section.9.5}
-\contentsline {subsection}{\numberline {9.5.1}Geology}{60}{subsection.9.5.1}
-\contentsline {subsubsection}{Geologic Time}{60}{section*.307}
-\contentsline {subsubsection}{Extinction Level Events}{60}{section*.308}
-\contentsline {subsubsection}{Vulcanology}{60}{section*.309}
-\contentsline {paragraph}{Introduction to Vulcanology}{60}{section*.310}
-\contentsline {paragraph}{Supervolcanoes}{60}{section*.311}
-\contentsline {paragraph}{World Volcanoes}{60}{section*.312}
-\contentsline {subparagraph}{Krakatoa}{60}{section*.313}
-\contentsline {subparagraph}{Mt. Pinatubo}{60}{section*.314}
-\contentsline {subparagraph}{Mt. Etna}{60}{section*.315}
-\contentsline {subparagraph}{Kilimanjaro}{60}{section*.316}
-\contentsline {subparagraph}{Mt. Erebus}{60}{section*.317}
-\contentsline {paragraph}{Hawaiian Volcanoes}{61}{section*.318}
-\contentsline {subparagraph}{Introduction to the Hawaiian Volcanoes}{61}{section*.319}
-\contentsline {subparagraph}{Kilauea}{62}{section*.320}
-\contentsline {subparagraph}{Mauna Loa}{63}{section*.321}
-\contentsline {subparagraph}{Mauna Kea}{64}{section*.322}
-\contentsline {subparagraph}{Hual\=alai}{65}{section*.323}
-\contentsline {subparagraph}{Kohala}{65}{section*.324}
-\contentsline {subparagraph}{Hale'akala}{65}{section*.325}
-\contentsline {subparagraph}{Lo'ih\=i}{65}{section*.326}
-\contentsline {subsection}{\numberline {9.5.2}Forensic Science}{65}{subsection.9.5.2}
-\contentsline {subsection}{\numberline {9.5.3}Meteorology}{65}{subsection.9.5.3}
-\contentsline {subsection}{\numberline {9.5.4}Oceanography}{65}{subsection.9.5.4}
-\contentsline {section}{\numberline {9.6}Physics}{65}{section.9.6}
-\contentsline {subsection}{\numberline {9.6.1}Classical Physics}{65}{subsection.9.6.1}
-\contentsline {subsection}{\numberline {9.6.2}Thermodynamics}{65}{subsection.9.6.2}
-\contentsline {subsection}{\numberline {9.6.3}Modern Physics}{65}{subsection.9.6.3}
-\contentsline {paragraph}{Modern Physics Principles}{65}{section*.327}
-\contentsline {paragraph}{Atomic and Nuclear Physics}{66}{section*.328}
-\contentsline {paragraph}{Famous Modern Physics Experiments}{66}{section*.329}
-\contentsline {chapter}{\numberline {10}Social Science}{67}{chapter.10}
-\contentsline {section}{\numberline {10.1}Economics}{67}{section.10.1}
-\contentsline {subsection}{\numberline {10.1.1}Historical Economics}{67}{subsection.10.1.1}
-\contentsline {subsection}{\numberline {10.1.2}Economists}{67}{subsection.10.1.2}
-\contentsline {section}{\numberline {10.2}Psychology}{67}{section.10.2}
-\contentsline {section}{\numberline {10.3}Sociology}{67}{section.10.3}
-\contentsline {chapter}{\numberline {11}Sports}{69}{chapter.11}
-\contentsline {section}{\numberline {11.1}Professional}{69}{section.11.1}
-\contentsline {subsection}{\numberline {11.1.1}Baseball}{70}{subsection.11.1.1}
-\contentsline {subsection}{\numberline {11.1.2}Teams}{70}{subsection.11.1.2}
-\contentsline {subsubsection}{All Time Records as of February 6, 2020}{71}{section*.330}
-\contentsline {subsection}{\numberline {11.1.3}Basketball}{72}{subsection.11.1.3}
-\contentsline {subsubsection}{Teams}{72}{section*.331}
-\contentsline {paragraph}{NBA}{72}{section*.332}
-\contentsline {paragraph}{WNBA}{72}{section*.333}
-\contentsline {subsubsection}{All Time Records as of February 6, 2020}{72}{section*.334}
-\contentsline {subsection}{\numberline {11.1.4}Boxing}{73}{subsection.11.1.4}
-\contentsline {subsection}{\numberline {11.1.5}Car Racing}{73}{subsection.11.1.5}
-\contentsline {subsection}{\numberline {11.1.6}Curling}{73}{subsection.11.1.6}
-\contentsline {subsection}{\numberline {11.1.7}Cycling}{73}{subsection.11.1.7}
-\contentsline {subsubsection}{Lance Armstrong}{73}{section*.335}
-\contentsline {subsection}{\numberline {11.1.8}Golf}{73}{subsection.11.1.8}
-\contentsline {subsection}{\numberline {11.1.9}Gymnastics}{74}{subsection.11.1.9}
-\contentsline {subsection}{\numberline {11.1.10}Hockey}{74}{subsection.11.1.10}
-\contentsline {subsection}{\numberline {11.1.11}Figure Skating}{74}{subsection.11.1.11}
-\contentsline {subsection}{\numberline {11.1.12}Football}{74}{subsection.11.1.12}
-\contentsline {subsection}{\numberline {11.1.13}Skateboarding}{74}{subsection.11.1.13}
-\contentsline {subsection}{\numberline {11.1.14}Soccer}{74}{subsection.11.1.14}
-\contentsline {subsection}{\numberline {11.1.15}Softball}{74}{subsection.11.1.15}
-\contentsline {subsection}{\numberline {11.1.16}Swimming}{74}{subsection.11.1.16}
-\contentsline {subsection}{\numberline {11.1.17}Tennis}{74}{subsection.11.1.17}
-\contentsline {subsection}{\numberline {11.1.18}Track and Field}{74}{subsection.11.1.18}
-\contentsline {subsection}{\numberline {11.1.19}Volleyball}{74}{subsection.11.1.19}
-\contentsline {subsection}{\numberline {11.1.20}Weight Lifting}{74}{subsection.11.1.20}
-\contentsline {section}{\numberline {11.2}College}{75}{section.11.2}
-\contentsline {subsection}{\numberline {11.2.1}Baseball}{75}{subsection.11.2.1}
-\contentsline {subsection}{\numberline {11.2.2}Basketball}{75}{subsection.11.2.2}
-\contentsline {subsection}{\numberline {11.2.3}Golf}{75}{subsection.11.2.3}
-\contentsline {subsection}{\numberline {11.2.4}Hockey}{75}{subsection.11.2.4}
-\contentsline {subsection}{\numberline {11.2.5}Football}{75}{subsection.11.2.5}
-\contentsline {subsection}{\numberline {11.2.6}Soccer}{75}{subsection.11.2.6}
-\contentsline {subsection}{\numberline {11.2.7}Tennis}{75}{subsection.11.2.7}
-\contentsline {section}{\numberline {11.3}Olympic Sports}{76}{section.11.3}
-\contentsline {subsection}{\numberline {11.3.1}Summer Olympics}{76}{subsection.11.3.1}
-\contentsline {subsubsection}{Archery}{76}{section*.336}
-\contentsline {subsubsection}{Badminton}{76}{section*.337}
-\contentsline {subsubsection}{Baseball and Softball}{76}{section*.338}
-\contentsline {subsubsection}{Basketball}{76}{section*.339}
-\contentsline {subsubsection}{Beach Volleyball}{76}{section*.340}
-\contentsline {subsubsection}{Boxing}{76}{section*.341}
-\contentsline {subsubsection}{Canoe/Kayak}{76}{section*.342}
-\contentsline {subsubsection}{Climbing}{76}{section*.343}
-\contentsline {subsubsection}{Cycling}{76}{section*.344}
-\contentsline {paragraph}{BMX}{76}{section*.345}
-\contentsline {paragraph}{Mountain}{76}{section*.346}
-\contentsline {paragraph}{Road}{76}{section*.347}
-\contentsline {paragraph}{Track}{76}{section*.348}
-\contentsline {subsubsection}{Diving}{76}{section*.349}
-\contentsline {subsubsection}{Equestrian}{76}{section*.350}
-\contentsline {paragraph}{Dressage}{76}{section*.351}
-\contentsline {paragraph}{Jumping}{76}{section*.352}
-\contentsline {paragraph}{Eventing}{76}{section*.353}
-\contentsline {subsubsection}{Fencing}{77}{section*.354}
-\contentsline {subsubsection}{Field Hockey}{77}{section*.355}
-\contentsline {subsubsection}{Golf}{77}{section*.356}
-\contentsline {subsubsection}{Gymnastics}{77}{section*.357}
-\contentsline {subsubsection}{Handball}{77}{section*.358}
-\contentsline {subsubsection}{Judo}{77}{section*.359}
-\contentsline {subsubsection}{Karate}{77}{section*.360}
-\contentsline {subsubsection}{Modern Pentathlon}{77}{section*.361}
-\contentsline {subsubsection}{Roller Sport}{77}{section*.362}
-\contentsline {subsubsection}{Rowing}{77}{section*.363}
-\contentsline {subsubsection}{Rugby 7's}{77}{section*.364}
-\contentsline {subsubsection}{Sailing}{77}{section*.365}
-\contentsline {subsubsection}{Shooting}{77}{section*.366}
-\contentsline {subsubsection}{Soccer}{77}{section*.367}
-\contentsline {subsubsection}{Swimming}{77}{section*.368}
-\contentsline {subsubsection}{Surfing}{77}{section*.369}
-\contentsline {subsubsection}{Synchronized Swimming}{77}{section*.370}
-\contentsline {subsubsection}{Table Tennis}{77}{section*.371}
-\contentsline {subsubsection}{Taekwondo}{77}{section*.372}
-\contentsline {subsubsection}{Tennis}{77}{section*.373}
-\contentsline {subsubsection}{Track and Field}{77}{section*.374}
-\contentsline {subsubsection}{Triathlon}{77}{section*.375}
-\contentsline {subsubsection}{Volleyball (Indoor)}{77}{section*.376}
-\contentsline {subsubsection}{Water Polo}{77}{section*.377}
-\contentsline {subsubsection}{Weightlifting}{77}{section*.378}
-\contentsline {subsubsection}{Wrestling}{77}{section*.379}
-\contentsline {subsection}{\numberline {11.3.2}Winter Olympics}{78}{subsection.11.3.2}
-\contentsline {subsubsection}{Alpine Skiing}{78}{section*.380}
-\contentsline {subsubsection}{Biathalon}{78}{section*.381}
-\contentsline {subsubsection}{Bobsleigh}{78}{section*.382}
-\contentsline {subsubsection}{Cross Country Skiing}{78}{section*.383}
-\contentsline {subsubsection}{Curling}{78}{section*.384}
-\contentsline {subsubsection}{Figure Skating}{78}{section*.385}
-\contentsline {subsubsection}{Freestyle Skiing}{78}{section*.386}
-\contentsline {subsubsection}{Ice Hockey}{78}{section*.387}
-\contentsline {subsubsection}{Luge}{78}{section*.388}
-\contentsline {subsubsection}{Nordic Combined}{78}{section*.389}
-\contentsline {subsubsection}{Short Track Skating}{78}{section*.390}
-\contentsline {subsubsection}{Skeleton}{78}{section*.391}
-\contentsline {subsubsection}{Ski Jumping}{78}{section*.392}
-\contentsline {subsubsection}{Snowboarding}{78}{section*.393}
-\contentsline {subsubsection}{Speed Skating}{78}{section*.394}
-\contentsline {chapter}{\numberline {12}Theology and Philosophy}{79}{chapter.12}
-\contentsline {section}{\numberline {12.1}Philosophy}{79}{section.12.1}
-\contentsline {subsection}{\numberline {12.1.1}Western Philosophy}{79}{subsection.12.1.1}
-\contentsline {subsubsection}{Ancient Philosophy}{79}{section*.395}
-\contentsline {paragraph}{Atomists}{79}{section*.396}
-\contentsline {paragraph}{Sophists}{79}{section*.397}
-\contentsline {paragraph}{Socrates}{79}{section*.398}
-\contentsline {paragraph}{Plato}{79}{section*.399}
-\contentsline {paragraph}{Aristotle}{79}{section*.400}
-\contentsline {subsubsection}{Medieval Philosophy}{79}{section*.401}
-\contentsline {paragraph}{Thomas Aquinas}{79}{section*.402}
-\contentsline {paragraph}{William of Ockham}{79}{section*.403}
-\contentsline {paragraph}{Bonaventure}{79}{section*.404}
-\contentsline {paragraph}{Scotus}{79}{section*.405}
-\contentsline {paragraph}{Roger Bacon}{79}{section*.406}
-\contentsline {subsubsection}{Modern Philosophy}{79}{section*.407}
-\contentsline {paragraph}{Des Cartes}{79}{section*.408}
-\contentsline {subsubsection}{Contemporary Philosophy}{80}{section*.409}
-\contentsline {paragraph}{Postmodernism}{80}{section*.410}
-\contentsline {paragraph}{Post-Postmodernism}{80}{section*.411}
-\contentsline {section}{\numberline {12.2}Theology}{80}{section.12.2}
-\contentsline {subsection}{\numberline {12.2.1}Abrahamic Religions}{80}{subsection.12.2.1}
-\contentsline {subsubsection}{Judaism}{80}{section*.412}
-\contentsline {subsubsection}{Christianity}{80}{section*.413}
-\contentsline {subsubsection}{Islam}{80}{section*.414}
-\contentsline {subsection}{\numberline {12.2.2}Other Religions}{80}{subsection.12.2.2}
-\contentsline {subsubsection}{Buddhist}{80}{section*.415}
-\contentsline {subsubsection}{Hindu}{80}{section*.416}
-\contentsline {chapter}{\numberline {13}Miscellaneous}{81}{chapter.13}
+\contentsline {chapter}{\numberline {1}Introduction}{7}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Current Events}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction to Current Events}{9}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Business and Economics}{9}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}US-China Trade War}{9}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Fed Policy}{10}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Cryptocurrency and Blockchain}{10}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Gig Economy}{10}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Retail Apocalypse}{11}{subsection.2.2.5}%
+\contentsline {section}{\numberline {2.3}Politics}{11}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Scandals}{11}{subsection.2.3.1}%
+\contentsline {subsubsection}{Scandals involving Donald Trump}{11}{section*.2}%
+\contentsline {paragraph}{Stormy Daniels}{11}{section*.3}%
+\contentsline {paragraph}{Russian Interference into Elections and the Muller Report}{11}{section*.4}%
+\contentsline {paragraph}{Ukrainian Aid, Whistleblower, and First Impeachment}{11}{section*.5}%
+\contentsline {paragraph}{Election of 2020, Invasion of the US Capitol, and Second Impeachment}{11}{section*.6}%
+\contentsline {subsubsection}{Scandals involving other US Politicians}{11}{section*.7}%
+\contentsline {paragraph}{Joe and Hunter Biden}{11}{section*.8}%
+\contentsline {paragraph}{Jeffery Epstein}{11}{section*.9}%
+\contentsline {paragraph}{Hillary Clinton}{11}{section*.10}%
+\contentsline {subsection}{\numberline {2.3.2}Foreign relations}{11}{subsection.2.3.2}%
+\contentsline {subsubsection}{North Korea}{11}{section*.11}%
+\contentsline {subsubsection}{Iran}{11}{section*.12}%
+\contentsline {paragraph}{The Killing of Qassim Soleimani}{11}{section*.13}%
+\contentsline {subsubsection}{Libya and Turkey}{12}{section*.14}%
+\contentsline {subsubsection}{China and Hong Kong}{12}{section*.15}%
+\contentsline {subsubsection}{Latin America}{12}{section*.16}%
+\contentsline {section}{\numberline {2.4}Science}{12}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Astronomy}{12}{subsection.2.4.1}%
+\contentsline {subsubsection}{Imaging of a Black Hole}{12}{section*.17}%
+\contentsline {subsubsection}{Mauna Kea Protests and TMT}{12}{section*.18}%
+\contentsline {subsubsection}{Omuamua and C/2019 Q4 Borisov}{12}{section*.19}%
+\contentsline {subsubsection}{Saturn's Moons}{12}{section*.20}%
+\contentsline {subsubsection}{Frame-Dragging of a Pulsar}{12}{section*.21}%
+\contentsline {subsection}{\numberline {2.4.2}Biology}{12}{subsection.2.4.2}%
+\contentsline {subsubsection}{Coronavirus}{12}{section*.22}%
+\contentsline {subsubsection}{CRISPR}{13}{section*.23}%
+\contentsline {subsection}{\numberline {2.4.3}Chemistry}{13}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Physics}{13}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Geology}{13}{subsection.2.4.5}%
+\contentsline {subsubsection}{Whakaari/White Island}{13}{section*.24}%
+\contentsline {subsubsection}{K\={\i }lauea}{13}{section*.25}%
+\contentsline {chapter}{\numberline {3}The Arts}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Visual}{15}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Architecture}{15}{subsection.3.1.1}%
+\contentsline {subsubsection}{Antoni Gaud\'{i}}{15}{section*.26}%
+\contentsline {subsubsection}{Frank Lloyd Wright}{15}{section*.27}%
+\contentsline {subsubsection}{Mies Van der Rohe}{15}{section*.28}%
+\contentsline {subsubsection}{Philip Johnson}{15}{section*.29}%
+\contentsline {subsubsection}{Eero Saarinen}{15}{section*.30}%
+\contentsline {subsubsection}{Richard Rogers}{15}{section*.31}%
+\contentsline {subsubsection}{Frank Gehry}{15}{section*.32}%
+\contentsline {subsubsection}{Norman Foster}{15}{section*.33}%
+\contentsline {subsubsection}{Renzo Piano}{15}{section*.34}%
+\contentsline {subsubsection}{Santiago Calatrava}{15}{section*.35}%
+\contentsline {subsubsection}{Zaha Hadid}{15}{section*.36}%
+\contentsline {subsubsection}{Oscar Niemeyer}{15}{section*.37}%
+\contentsline {subsubsection}{Rem Koolhas}{15}{section*.38}%
+\contentsline {subsubsection}{Jeanne Gang}{15}{section*.39}%
+\contentsline {subsubsection}{Shigeru Ban}{15}{section*.40}%
+\contentsline {subsection}{\numberline {3.1.2}Sculpture}{16}{subsection.3.1.2}%
+\contentsline {subsubsection}{Michelangelo}{16}{section*.41}%
+\contentsline {subsubsection}{Gianlorenzo Bernini}{16}{section*.42}%
+\contentsline {subsubsection}{Sandro Botticelli}{16}{section*.43}%
+\contentsline {paragraph}{The Birth of Venus}{16}{section*.44}%
+\contentsline {subsubsection}{Auguste Rodin}{16}{section*.45}%
+\contentsline {paragraph}{The Thinker}{16}{section*.46}%
+\contentsline {paragraph}{The Gates of Hell}{16}{section*.47}%
+\contentsline {subsubsection}{Marciel Duchamp}{17}{section*.48}%
+\contentsline {subsubsection}{Constantin Brancusi}{17}{section*.49}%
+\contentsline {subsubsection}{Alberto Giacometti}{17}{section*.50}%
+\contentsline {subsubsection}{Henry Moore}{17}{section*.51}%
+\contentsline {subsubsection}{Sol LeWitt}{17}{section*.52}%
+\contentsline {subsubsection}{Louise Bourgeois}{17}{section*.53}%
+\contentsline {subsection}{\numberline {3.1.3}Painting}{17}{subsection.3.1.3}%
+\contentsline {subsubsection}{William Blake}{17}{section*.54}%
+\contentsline {subsubsection}{Caravaggio}{17}{section*.55}%
+\contentsline {subsubsection}{Salvador Dali}{17}{section*.56}%
+\contentsline {subsubsection}{Eugene Delacroix}{17}{section*.57}%
+\contentsline {paragraph}{The Persistance of Memory}{17}{section*.58}%
+\contentsline {subsubsection}{Marciel Duchamp}{17}{section*.59}%
+\contentsline {subsubsection}{El Greco}{17}{section*.60}%
+\contentsline {subsubsection}{Francisco Goya}{17}{section*.61}%
+\contentsline {subsubsection}{Hokusai}{17}{section*.62}%
+\contentsline {paragraph}{Thirty-Six Views of Mount Fuji}{17}{section*.63}%
+\contentsline {subparagraph}{The Great Wave off Kanagawa}{17}{section*.64}%
+\contentsline {subsubsection}{Edward Hopper}{17}{section*.65}%
+\contentsline {paragraph}{Nighthawks}{17}{section*.66}%
+\contentsline {subsubsection}{Monet}{17}{section*.67}%
+\contentsline {paragraph}{Impression: Sunrise}{17}{section*.68}%
+\contentsline {subsubsection}{Edvard Munch}{17}{section*.69}%
+\contentsline {paragraph}{The Scream}{17}{section*.70}%
+\contentsline {subsubsection}{Pablo Picasso}{18}{section*.71}%
+\contentsline {paragraph}{Guernica}{18}{section*.72}%
+\contentsline {subsubsection}{Rembrant}{18}{section*.73}%
+\contentsline {paragraph}{The Night Watch}{18}{section*.74}%
+\contentsline {subsubsection}{Georges Seurat}{18}{section*.75}%
+\contentsline {paragraph}{A Sunday on La Grande Jatte}{18}{section*.76}%
+\contentsline {subsubsection}{Vincent VanGogh}{18}{section*.77}%
+\contentsline {paragraph}{The Starry Night}{18}{section*.78}%
+\contentsline {subsubsection}{Andy Warhol}{18}{section*.79}%
+\contentsline {paragraph}{Campbell's Soup Cans}{18}{section*.80}%
+\contentsline {subsubsection}{Grant Wood}{18}{section*.81}%
+\contentsline {paragraph}{American Gothic}{18}{section*.82}%
+\contentsline {subsection}{\numberline {3.1.4}Other}{18}{subsection.3.1.4}%
+\contentsline {section}{\numberline {3.2}Performing}{18}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Plays}{18}{subsection.3.2.1}%
+\contentsline {subsubsection}{Greek}{18}{section*.83}%
+\contentsline {subsubsection}{Shakespeare}{18}{section*.84}%
+\contentsline {subsubsection}{Modern Plays}{18}{section*.85}%
+\contentsline {subsubsection}{Arthur Miller}{18}{section*.86}%
+\contentsline {subsection}{\numberline {3.2.2}Operas}{18}{subsection.3.2.2}%
+\contentsline {paragraph}{Gilbert and Sullivan}{18}{section*.87}%
+\contentsline {subparagraph}{HMS Pinafore}{18}{section*.88}%
+\contentsline {subparagraph}{The Pirates of Penzance}{19}{section*.89}%
+\contentsline {subparagraph}{The Mikado}{19}{section*.90}%
+\contentsline {subsection}{\numberline {3.2.3}Musicals}{20}{subsection.3.2.3}%
+\contentsline {paragraph}{Leonard Bernstein}{20}{section*.91}%
+\contentsline {paragraph}{Frederick Loewe}{20}{section*.92}%
+\contentsline {paragraph}{Cole Porter}{20}{section*.93}%
+\contentsline {paragraph}{Rogers and Hammerstein}{20}{section*.94}%
+\contentsline {paragraph}{Andrew LLoyd Webber}{20}{section*.95}%
+\contentsline {subsection}{\numberline {3.2.4}Music}{20}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Religious}{20}{subsection.3.2.5}%
+\contentsline {paragraph}{Chant}{20}{section*.96}%
+\contentsline {subparagraph}{Te Deum}{21}{section*.97}%
+\contentsline {subparagraph}{Let All Mortal Flesh Keep Silence}{21}{section*.98}%
+\contentsline {subparagraph}{Phos Hilaron (Lumen Hilare)}{21}{section*.99}%
+\contentsline {subparagraph}{Pange, lingua}{21}{section*.100}%
+\contentsline {subparagraph}{Dies Irae}{21}{section*.101}%
+\contentsline {paragraph}{Religious Hymns}{21}{section*.102}%
+\contentsline {subparagraph}{A Mighty Fortress is our God}{21}{section*.103}%
+\contentsline {subparagraph}{Amazing Grace}{21}{section*.104}%
+\contentsline {subparagraph}{How Great Thou Art}{21}{section*.105}%
+\contentsline {subsubsection}{Classical}{21}{section*.106}%
+\contentsline {paragraph}{Composers}{21}{section*.107}%
+\contentsline {subparagraph}{Beethoven}{21}{section*.108}%
+\contentsline {subparagraph}{Mozart}{21}{section*.109}%
+\contentsline {subparagraph}{Bach}{21}{section*.110}%
+\contentsline {subparagraph}{Brahms}{21}{section*.111}%
+\contentsline {subparagraph}{Holst}{21}{section*.112}%
+\contentsline {subparagraph}{Hayden}{21}{section*.113}%
+\contentsline {subparagraph}{Chopin}{21}{section*.114}%
+\contentsline {subparagraph}{Dvorak}{21}{section*.115}%
+\contentsline {subparagraph}{Handel}{21}{section*.116}%
+\contentsline {subparagraph}{Tchaikovsky}{21}{section*.117}%
+\contentsline {subparagraph}{Aaron Copland}{22}{section*.118}%
+\contentsline {paragraph}{Themes Contained in Songs}{22}{section*.119}%
+\contentsline {subparagraph}{Beethoven's 9th}{22}{section*.120}%
+\contentsline {subparagraph}{Aaron Copeland's Appalacian Spring}{22}{section*.121}%
+\contentsline {subsubsection}{Songs of the Civil War}{23}{section*.122}%
+\contentsline {paragraph}{When Johnny Comes Marching Home}{23}{section*.123}%
+\contentsline {paragraph}{John Brown's Body}{23}{section*.124}%
+\contentsline {paragraph}{Follow the Drinking Gourd}{23}{section*.125}%
+\contentsline {paragraph}{Lincoln and Liberty Too}{23}{section*.126}%
+\contentsline {paragraph}{Bonny Blue Flag}{23}{section*.127}%
+\contentsline {paragraph}{Battle Cry of Freedom}{23}{section*.128}%
+\contentsline {paragraph}{Goober Peas}{23}{section*.129}%
+\contentsline {paragraph}{Marching Through Georgia}{23}{section*.130}%
+\contentsline {paragraph}{Battle Hymn of the Republic}{23}{section*.131}%
+\contentsline {subsubsection}{Ragtime}{23}{section*.132}%
+\contentsline {paragraph}{The Entertainer}{23}{section*.133}%
+\contentsline {paragraph}{Maple Leaf Rag}{23}{section*.134}%
+\contentsline {subsubsection}{Jazz}{23}{section*.135}%
+\contentsline {paragraph}{Rhapsody in Blue}{23}{section*.136}%
+\contentsline {subsubsection}{Rock}{23}{section*.137}%
+\contentsline {subsubsection}{Techno}{23}{section*.138}%
+\contentsline {chapter}{\numberline {4}Geography}{25}{chapter.4}%
+\contentsline {section}{\numberline {4.1}General World Geography}{25}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Continents}{25}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Africa}{25}{subsection.4.2.1}%
+\contentsline {subsubsection}{Random Trivia}{25}{section*.139}%
+\contentsline {subsection}{\numberline {4.2.2}Antarctica}{26}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Asia}{26}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Australia and Oceania}{26}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Europe}{26}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}North America}{26}{subsection.4.2.6}%
+\contentsline {subsubsection}{Canada}{26}{section*.140}%
+\contentsline {paragraph}{By Provinces and Territories}{26}{section*.141}%
+\contentsline {paragraph}{Rivers, Lakes, and Bodies of Water}{26}{section*.142}%
+\contentsline {subsubsection}{Mexico}{26}{section*.143}%
+\contentsline {paragraph}{By States and Territories}{26}{section*.144}%
+\contentsline {paragraph}{Rivers, Lakes, and Bodies of Water}{26}{section*.145}%
+\contentsline {subsubsection}{United States}{27}{section*.146}%
+\contentsline {paragraph}{By States and Territories}{27}{section*.147}%
+\contentsline {paragraph}{UNESCO World Heritage Sites:}{29}{section*.148}%
+\contentsline {paragraph}{Rivers, Lakes, and Bodies of Water}{35}{section*.149}%
+\contentsline {subparagraph}{The Great Lakes}{35}{section*.150}%
+\contentsline {subparagraph}{Other Lakes}{35}{section*.151}%
+\contentsline {subparagraph}{Rivers}{35}{section*.152}%
+\contentsline {subsection}{\numberline {4.2.7}South America}{35}{subsection.4.2.7}%
+\contentsline {section}{\numberline {4.3}Oceans}{35}{section.4.3}%
+\contentsline {subsubsection}{Atlantic}{36}{section*.153}%
+\contentsline {subsubsection}{Arctic}{36}{section*.154}%
+\contentsline {subsubsection}{Indian}{36}{section*.155}%
+\contentsline {subsubsection}{Pacific}{36}{section*.156}%
+\contentsline {subsubsection}{Southern}{36}{section*.157}%
+\contentsline {chapter}{\numberline {5}History}{37}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Ancient History}{37}{section.5.1}%
+\contentsline {section}{\numberline {5.2}American History}{37}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}American Prehistory}{37}{subsection.5.2.1}%
+\contentsline {subsubsection}{Geology of North America}{37}{section*.158}%
+\contentsline {paragraph}{Glaciers}{37}{section*.159}%
+\contentsline {paragraph}{Lake Agassiz}{37}{section*.160}%
+\contentsline {subsubsection}{Megafauna}{37}{section*.161}%
+\contentsline {paragraph}{Wooly Mamoth}{37}{section*.162}%
+\contentsline {paragraph}{Mastodon}{37}{section*.163}%
+\contentsline {paragraph}{Smilodon}{37}{section*.164}%
+\contentsline {paragraph}{Gylptodon}{37}{section*.165}%
+\contentsline {paragraph}{Giant Sloths}{37}{section*.166}%
+\contentsline {paragraph}{Dire Wolf}{37}{section*.167}%
+\contentsline {subsection}{\numberline {5.2.2}Early Humans in North America}{38}{subsection.5.2.2}%
+\contentsline {subsubsection}{Bearing Land Bridge}{38}{section*.168}%
+\contentsline {subsubsection}{Clovis culture}{38}{section*.169}%
+\contentsline {subsubsection}{Native American Tribes}{38}{section*.170}%
+\contentsline {subsection}{\numberline {5.2.3}Colonial America}{38}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}American Revolution}{38}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}America under the Articles of Confederation}{38}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}From the Constitution to the War of 1812}{38}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}War of 1812}{38}{subsection.5.2.7}%
+\contentsline {subsection}{\numberline {5.2.8}From 1812 to the Civil War}{38}{subsection.5.2.8}%
+\contentsline {subsubsection}{Texas Revolution}{38}{section*.171}%
+\contentsline {subsection}{\numberline {5.2.9}Civil War}{38}{subsection.5.2.9}%
+\contentsline {subsubsection}{John Brown's Raid}{38}{section*.172}%
+\contentsline {subsubsection}{Secession and Ft. Sumter}{39}{section*.173}%
+\contentsline {subsubsection}{Battles}{39}{section*.174}%
+\contentsline {subsection}{\numberline {5.2.10}Reconstruction}{39}{subsection.5.2.10}%
+\contentsline {subsection}{\numberline {5.2.11}From Reconstruction to Spanish American War}{39}{subsection.5.2.11}%
+\contentsline {subsection}{\numberline {5.2.12}Spanish American War}{39}{subsection.5.2.12}%
+\contentsline {subsection}{\numberline {5.2.13}From The Spanish American War to World War I}{39}{subsection.5.2.13}%
+\contentsline {subsection}{\numberline {5.2.14}World War I}{39}{subsection.5.2.14}%
+\contentsline {subsection}{\numberline {5.2.15}From World War 1 to the The Great Depression}{39}{subsection.5.2.15}%
+\contentsline {subsection}{\numberline {5.2.16}The Great Depression}{39}{subsection.5.2.16}%
+\contentsline {subsection}{\numberline {5.2.17}World War II}{39}{subsection.5.2.17}%
+\contentsline {subsubsection}{The Cold War}{39}{section*.175}%
+\contentsline {subsection}{\numberline {5.2.18}1990's to Present}{39}{subsection.5.2.18}%
+\contentsline {subsection}{\numberline {5.2.19}Presidents}{39}{subsection.5.2.19}%
+\contentsline {subsection}{\numberline {5.2.20}Supreme Court Cases}{40}{subsection.5.2.20}%
+\contentsline {subsubsection}{Marbury v Madison}{40}{section*.176}%
+\contentsline {subsubsection}{McCulloch v Maryland}{40}{section*.177}%
+\contentsline {subsubsection}{Gibbons v Ogden}{40}{section*.178}%
+\contentsline {subsubsection}{Dred Scott v Sanford}{40}{section*.179}%
+\contentsline {subsubsection}{Plessy v Ferguson}{40}{section*.180}%
+\contentsline {subsubsection}{Schenck v United States}{40}{section*.181}%
+\contentsline {subsubsection}{Brown v Board of Education}{40}{section*.182}%
+\contentsline {subsubsection}{Miranda v Arizona}{40}{section*.183}%
+\contentsline {subsubsection}{Roe v Wade}{40}{section*.184}%
+\contentsline {subsubsection}{Texas v Johnson}{40}{section*.185}%
+\contentsline {subsubsection}{Obergefell v Hodges}{40}{section*.186}%
+\contentsline {subsection}{\numberline {5.2.21}Congress}{40}{subsection.5.2.21}%
+\contentsline {section}{\numberline {5.3}European History}{40}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Religious History}{40}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Judaism}{40}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Christianity}{40}{subsection.5.4.2}%
+\contentsline {subsubsection}{Foundations}{40}{section*.187}%
+\contentsline {subsubsection}{Eccumenical Councils of the [Catholic] Church}{41}{section*.188}%
+\contentsline {subsubsection}{The Great Scism of 1054}{42}{section*.189}%
+\contentsline {subsubsection}{The Protestant Reformation}{42}{section*.190}%
+\contentsline {paragraph}{Martin Luther}{42}{section*.191}%
+\contentsline {paragraph}{John Wesley}{42}{section*.192}%
+\contentsline {paragraph}{John Calvin}{42}{section*.193}%
+\contentsline {paragraph}{Henry VIII}{42}{section*.194}%
+\contentsline {subsection}{\numberline {5.4.3}Islam}{42}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}Buddhism}{42}{subsection.5.4.4}%
+\contentsline {subsection}{\numberline {5.4.5}Hinduism}{42}{subsection.5.4.5}%
+\contentsline {subsection}{\numberline {5.4.6}}{42}{subsection.5.4.6}%
+\contentsline {section}{\numberline {5.5}World History}{42}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Literature}{43}{chapter.6}%
+\contentsline {section}{\numberline {6.1}General Literature Trivia}{44}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Opening Lines}{44}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}American Literature}{45}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Fiction}{45}{subsection.6.2.1}%
+\contentsline {subsubsection}{William Faulkner}{45}{section*.195}%
+\contentsline {paragraph}{A Rose for Emily}{45}{section*.196}%
+\contentsline {paragraph}{As I Lay Dying}{45}{section*.197}%
+\contentsline {paragraph}{Barn Burning}{45}{section*.198}%
+\contentsline {paragraph}{Light in August}{45}{section*.199}%
+\contentsline {paragraph}{The Hamlet}{45}{section*.200}%
+\contentsline {subsubsection}{F. Scott Fitzgerald}{45}{section*.201}%
+\contentsline {paragraph}{The Great Gatsby}{45}{section*.202}%
+\contentsline {paragraph}{Tender is the Night}{46}{section*.203}%
+\contentsline {paragraph}{This Side of Paradise}{46}{section*.204}%
+\contentsline {subsubsection}{John Greene}{46}{section*.205}%
+\contentsline {paragraph}{Looking For Alaska}{46}{section*.206}%
+\contentsline {subsubsection}{Herman Melville}{46}{section*.207}%
+\contentsline {paragraph}{Moby Dick}{46}{section*.208}%
+\contentsline {subsubsection}{J. D. Salinger}{46}{section*.209}%
+\contentsline {paragraph}{The Catcher in the Rye}{46}{section*.210}%
+\contentsline {subsubsection}{Kurt Vonnegut}{46}{section*.211}%
+\contentsline {paragraph}{Slaughterhouse-Five}{46}{section*.212}%
+\contentsline {subsection}{\numberline {6.2.2}Nonfiction}{46}{subsection.6.2.2}%
+\contentsline {subsubsection}{Silent Spring}{46}{section*.213}%
+\contentsline {subsection}{\numberline {6.2.3}Poetry}{46}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}European Literature}{46}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Fiction}{46}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}1984}{46}{subsection.6.3.2}%
+\contentsline {subsubsection}{Animal Farm}{46}{section*.214}%
+\contentsline {subsubsection}{Ulysses}{46}{section*.215}%
+\contentsline {subsection}{\numberline {6.3.3}Nonfiction}{46}{subsection.6.3.3}%
+\contentsline {subsubsection}{Mutiny on the Bounty}{46}{section*.216}%
+\contentsline {subsection}{\numberline {6.3.4}Poetry}{47}{subsection.6.3.4}%
+\contentsline {subsubsection}{William Blake}{47}{section*.217}%
+\contentsline {paragraph}{The Tyger}{47}{section*.218}%
+\contentsline {paragraph}{London}{47}{section*.219}%
+\contentsline {paragraph}{The Lamb}{47}{section*.220}%
+\contentsline {subsubsection}{Shakespeare}{47}{section*.221}%
+\contentsline {section}{\numberline {6.4}Religious Literature}{48}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Abrahamic Religions}{48}{subsection.6.4.1}%
+\contentsline {subsubsection}{Jewish}{48}{section*.222}%
+\contentsline {paragraph}{Bible - Old Testamant)}{48}{section*.223}%
+\contentsline {paragraph}{Talmud}{49}{section*.224}%
+\contentsline {subsubsection}{Christian}{49}{section*.225}%
+\contentsline {subsubsection}{Muslim}{49}{section*.226}%
+\contentsline {paragraph}{Koran}{49}{section*.227}%
+\contentsline {subsection}{\numberline {6.4.2}Eastern Religions}{49}{subsection.6.4.2}%
+\contentsline {subsubsection}{Hindu}{49}{section*.228}%
+\contentsline {subsubsection}{Buddhist}{49}{section*.229}%
+\contentsline {subsection}{\numberline {6.4.3}Talmud}{49}{subsection.6.4.3}%
+\contentsline {subsubsection}{title}{49}{section*.230}%
+\contentsline {section}{\numberline {6.5}World Literature}{49}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Mythology}{51}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Greek/Roman}{51}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Egyptian}{51}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Hawaiian/Polynesian}{51}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Norse}{51}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Mezoamerican}{51}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Indian/South Asian}{51}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Chinese/Japanese/East Asian}{51}{section.7.7}%
+\contentsline {section}{\numberline {7.8}Arthurian}{51}{section.7.8}%
+\contentsline {chapter}{\numberline {8}Pop Culture}{53}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Pop Music}{53}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Entertainment}{53}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Video Games}{53}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Wrestling}{53}{subsection.8.2.2}%
+\contentsline {chapter}{\numberline {9}Science}{55}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Astronomy}{55}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Astronomers}{55}{subsection.9.1.1}%
+\contentsline {subsubsection}{Galileo}{55}{section*.231}%
+\contentsline {subsubsection}{Copernicus}{55}{section*.232}%
+\contentsline {subsubsection}{Kepler}{55}{section*.233}%
+\contentsline {subsubsection}{Cassini}{55}{section*.234}%
+\contentsline {subsubsection}{Edmund Halley}{55}{section*.235}%
+\contentsline {subsubsection}{Huyguens}{55}{section*.236}%
+\contentsline {subsubsection}{Clyde Tombaugh}{55}{section*.237}%
+\contentsline {subsubsection}{Kuiper}{55}{section*.238}%
+\contentsline {subsection}{\numberline {9.1.2}Constellations}{55}{subsection.9.1.2}%
+\contentsline {subsubsection}{Zodiac}{55}{section*.239}%
+\contentsline {subsubsection}{Other Constellations}{55}{section*.240}%
+\contentsline {subsection}{\numberline {9.1.3}Cosmology}{55}{subsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.1.4}Solar System}{55}{subsection.9.1.4}%
+\contentsline {subsubsection}{Planets}{55}{section*.241}%
+\contentsline {paragraph}{Mercury}{55}{section*.242}%
+\contentsline {paragraph}{Venus}{55}{section*.243}%
+\contentsline {paragraph}{Earth}{55}{section*.244}%
+\contentsline {paragraph}{Mars}{56}{section*.245}%
+\contentsline {paragraph}{Jupiter}{56}{section*.246}%
+\contentsline {paragraph}{Saturn}{56}{section*.247}%
+\contentsline {paragraph}{Uranus}{56}{section*.248}%
+\contentsline {paragraph}{Neptune}{56}{section*.249}%
+\contentsline {subsubsection}{Dwarf Planets}{56}{section*.250}%
+\contentsline {paragraph}{Pluto}{56}{section*.251}%
+\contentsline {paragraph}{Eris}{56}{section*.252}%
+\contentsline {paragraph}{MakeMake}{56}{section*.253}%
+\contentsline {paragraph}{Haumea}{56}{section*.254}%
+\contentsline {paragraph}{Ceres}{56}{section*.255}%
+\contentsline {subsubsection}{Sol}{56}{section*.256}%
+\contentsline {paragraph}{Age, Compostion and Size}{56}{section*.257}%
+\contentsline {paragraph}{Sunspots}{56}{section*.258}%
+\contentsline {paragraph}{Prominences, Solar Flares, and Coronal Mass Ejections}{56}{section*.259}%
+\contentsline {paragraph}{Solar Wind and Solar Flux}{56}{section*.260}%
+\contentsline {subsubsection}{Other Objects}{56}{section*.261}%
+\contentsline {paragraph}{Comets}{56}{section*.262}%
+\contentsline {subparagraph}{Halley's Comet}{56}{section*.263}%
+\contentsline {subparagraph}{Comet McNaught}{57}{section*.264}%
+\contentsline {subparagraph}{Hale-Bopp}{57}{section*.265}%
+\contentsline {subparagraph}{Shoemaker-Levi 9}{57}{section*.266}%
+\contentsline {paragraph}{Asteroids and Meteors}{57}{section*.267}%
+\contentsline {paragraph}{Dwarf Planet Candidates}{57}{section*.268}%
+\contentsline {subparagraph}{Sedna}{57}{section*.269}%
+\contentsline {paragraph}{Interstellar Objects}{57}{section*.270}%
+\contentsline {subsubsection}{Space Firsts}{57}{section*.271}%
+\contentsline {subsubsection}{NASA}{57}{section*.272}%
+\contentsline {paragraph}{Manned Missions}{57}{section*.273}%
+\contentsline {subparagraph}{Mercury}{57}{section*.274}%
+\contentsline {subparagraph}{Gemini}{57}{section*.275}%
+\contentsline {subparagraph}{Apollo}{57}{section*.276}%
+\contentsline {subparagraph}{Skylab}{57}{section*.277}%
+\contentsline {subparagraph}{STS}{57}{section*.278}%
+\contentsline {subparagraph}{ISS}{57}{section*.279}%
+\contentsline {subparagraph}{SLS}{58}{section*.280}%
+\contentsline {paragraph}{Unmanned Missions}{58}{section*.281}%
+\contentsline {subparagraph}{Explorer}{58}{section*.282}%
+\contentsline {subparagraph}{Pioneer}{58}{section*.283}%
+\contentsline {subparagraph}{Echo}{58}{section*.284}%
+\contentsline {subparagraph}{Ranger}{58}{section*.285}%
+\contentsline {subparagraph}{Mariner}{58}{section*.286}%
+\contentsline {subparagraph}{Viking}{58}{section*.287}%
+\contentsline {subparagraph}{Voyager}{58}{section*.288}%
+\contentsline {subparagraph}{Galileo}{58}{section*.289}%
+\contentsline {subparagraph}{Ulyssees}{58}{section*.290}%
+\contentsline {subparagraph}{Discovery}{58}{section*.291}%
+\contentsline {subparagraph}{Cassini-Huygens}{58}{section*.292}%
+\contentsline {subparagraph}{Messenger}{58}{section*.293}%
+\contentsline {subparagraph}{New Horizons}{58}{section*.294}%
+\contentsline {subparagraph}{Juno}{58}{section*.295}%
+\contentsline {subparagraph}{Dawn}{58}{section*.296}%
+\contentsline {subsubsection}{Russian Space Programs}{58}{section*.297}%
+\contentsline {paragraph}{Manned}{58}{section*.298}%
+\contentsline {paragraph}{Unmanned}{59}{section*.299}%
+\contentsline {subparagraph}{Sputnik}{59}{section*.300}%
+\contentsline {subsubsection}{Chinese Space Programs}{59}{section*.301}%
+\contentsline {subsection}{\numberline {9.1.5}Stars}{59}{subsection.9.1.5}%
+\contentsline {subsubsection}{Types}{59}{section*.302}%
+\contentsline {paragraph}{Hertzsprung-Russel Diagrams}{59}{section*.303}%
+\contentsline {paragraph}{Spectral Class}{59}{section*.304}%
+\contentsline {subsection}{\numberline {9.1.6}Galaxies}{59}{subsection.9.1.6}%
+\contentsline {subsection}{\numberline {9.1.7}Telescopes}{59}{subsection.9.1.7}%
+\contentsline {section}{\numberline {9.2}Biology}{59}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}Microbiology}{59}{subsection.9.2.1}%
+\contentsline {subsubsection}{Cells}{59}{section*.305}%
+\contentsline {paragraph}{Organelles}{59}{section*.306}%
+\contentsline {subsection}{\numberline {9.2.2}Macrobiology}{59}{subsection.9.2.2}%
+\contentsline {subsubsection}{Anatomy}{59}{section*.307}%
+\contentsline {subsubsection}{Taxonomy}{59}{section*.308}%
+\contentsline {section}{\numberline {9.3}Chemistry}{59}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Computer Science}{59}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Earth Science}{60}{section.9.5}%
+\contentsline {subsection}{\numberline {9.5.1}Geology}{60}{subsection.9.5.1}%
+\contentsline {subsubsection}{Geologic Time}{60}{section*.309}%
+\contentsline {subsubsection}{Extinction Level Events}{60}{section*.310}%
+\contentsline {subsubsection}{Vulcanology}{60}{section*.311}%
+\contentsline {paragraph}{Introduction to Vulcanology}{60}{section*.312}%
+\contentsline {paragraph}{Supervolcanoes}{60}{section*.313}%
+\contentsline {paragraph}{World Volcanoes}{60}{section*.314}%
+\contentsline {subparagraph}{Krakatoa}{60}{section*.315}%
+\contentsline {subparagraph}{Mt. Pinatubo}{60}{section*.316}%
+\contentsline {subparagraph}{Mt. Etna}{60}{section*.317}%
+\contentsline {subparagraph}{Kilimanjaro}{60}{section*.318}%
+\contentsline {subparagraph}{Mt. Erebus}{60}{section*.319}%
+\contentsline {paragraph}{Hawaiian Volcanoes}{61}{section*.320}%
+\contentsline {subparagraph}{Introduction to the Hawaiian Volcanoes}{61}{section*.321}%
+\contentsline {subparagraph}{Kilauea}{62}{section*.322}%
+\contentsline {subparagraph}{Mauna Loa}{63}{section*.323}%
+\contentsline {subparagraph}{Mauna Kea}{64}{section*.324}%
+\contentsline {subparagraph}{Hual\=alai}{65}{section*.325}%
+\contentsline {subparagraph}{Kohala}{65}{section*.326}%
+\contentsline {subparagraph}{Hale'akala}{65}{section*.327}%
+\contentsline {subparagraph}{Lo'ih\=i}{65}{section*.328}%
+\contentsline {subsection}{\numberline {9.5.2}Forensic Science}{65}{subsection.9.5.2}%
+\contentsline {subsection}{\numberline {9.5.3}Meteorology}{65}{subsection.9.5.3}%
+\contentsline {subsection}{\numberline {9.5.4}Oceanography}{65}{subsection.9.5.4}%
+\contentsline {section}{\numberline {9.6}Physics}{65}{section.9.6}%
+\contentsline {subsection}{\numberline {9.6.1}Classical Physics}{65}{subsection.9.6.1}%
+\contentsline {subsection}{\numberline {9.6.2}Thermodynamics}{65}{subsection.9.6.2}%
+\contentsline {subsection}{\numberline {9.6.3}Modern Physics}{65}{subsection.9.6.3}%
+\contentsline {paragraph}{Modern Physics Principles}{65}{section*.329}%
+\contentsline {paragraph}{Atomic and Nuclear Physics}{66}{section*.330}%
+\contentsline {paragraph}{Famous Modern Physics Experiments}{66}{section*.331}%
+\contentsline {chapter}{\numberline {10}Social Science}{67}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Economics}{67}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}Historical Economics}{67}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}Economists}{67}{subsection.10.1.2}%
+\contentsline {section}{\numberline {10.2}Psychology}{67}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Sociology}{67}{section.10.3}%
+\contentsline {chapter}{\numberline {11}Sports}{69}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Professional}{69}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}Baseball}{70}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.2}Teams}{70}{subsection.11.1.2}%
+\contentsline {subsubsection}{All Time Records as of January 19, 2021}{71}{section*.332}%
+\contentsline {subsection}{\numberline {11.1.3}Basketball}{72}{subsection.11.1.3}%
+\contentsline {subsubsection}{Teams}{72}{section*.333}%
+\contentsline {paragraph}{NBA}{72}{section*.334}%
+\contentsline {paragraph}{WNBA}{72}{section*.335}%
+\contentsline {subsubsection}{All Time Records as of January 19, 2021}{72}{section*.336}%
+\contentsline {subsection}{\numberline {11.1.4}Boxing}{73}{subsection.11.1.4}%
+\contentsline {subsection}{\numberline {11.1.5}Car Racing}{73}{subsection.11.1.5}%
+\contentsline {subsection}{\numberline {11.1.6}Curling}{73}{subsection.11.1.6}%
+\contentsline {subsection}{\numberline {11.1.7}Cycling}{73}{subsection.11.1.7}%
+\contentsline {subsubsection}{Lance Armstrong}{73}{section*.337}%
+\contentsline {subsection}{\numberline {11.1.8}Golf}{73}{subsection.11.1.8}%
+\contentsline {subsection}{\numberline {11.1.9}Gymnastics}{74}{subsection.11.1.9}%
+\contentsline {subsection}{\numberline {11.1.10}Hockey}{74}{subsection.11.1.10}%
+\contentsline {subsection}{\numberline {11.1.11}Figure Skating}{74}{subsection.11.1.11}%
+\contentsline {subsection}{\numberline {11.1.12}Football}{74}{subsection.11.1.12}%
+\contentsline {subsection}{\numberline {11.1.13}Skateboarding}{74}{subsection.11.1.13}%
+\contentsline {subsection}{\numberline {11.1.14}Soccer}{74}{subsection.11.1.14}%
+\contentsline {subsection}{\numberline {11.1.15}Softball}{74}{subsection.11.1.15}%
+\contentsline {subsection}{\numberline {11.1.16}Swimming}{74}{subsection.11.1.16}%
+\contentsline {subsection}{\numberline {11.1.17}Tennis}{74}{subsection.11.1.17}%
+\contentsline {subsection}{\numberline {11.1.18}Track and Field}{74}{subsection.11.1.18}%
+\contentsline {subsection}{\numberline {11.1.19}Volleyball}{74}{subsection.11.1.19}%
+\contentsline {subsection}{\numberline {11.1.20}Weight Lifting}{74}{subsection.11.1.20}%
+\contentsline {section}{\numberline {11.2}College}{75}{section.11.2}%
+\contentsline {subsection}{\numberline {11.2.1}Baseball}{75}{subsection.11.2.1}%
+\contentsline {subsection}{\numberline {11.2.2}Basketball}{75}{subsection.11.2.2}%
+\contentsline {subsection}{\numberline {11.2.3}Golf}{75}{subsection.11.2.3}%
+\contentsline {subsection}{\numberline {11.2.4}Hockey}{75}{subsection.11.2.4}%
+\contentsline {subsection}{\numberline {11.2.5}Football}{75}{subsection.11.2.5}%
+\contentsline {subsection}{\numberline {11.2.6}Soccer}{75}{subsection.11.2.6}%
+\contentsline {subsection}{\numberline {11.2.7}Tennis}{75}{subsection.11.2.7}%
+\contentsline {section}{\numberline {11.3}Olympic Sports}{76}{section.11.3}%
+\contentsline {subsection}{\numberline {11.3.1}Summer Olympics}{76}{subsection.11.3.1}%
+\contentsline {subsubsection}{Archery}{76}{section*.338}%
+\contentsline {subsubsection}{Badminton}{76}{section*.339}%
+\contentsline {subsubsection}{Baseball and Softball}{76}{section*.340}%
+\contentsline {subsubsection}{Basketball}{76}{section*.341}%
+\contentsline {subsubsection}{Beach Volleyball}{76}{section*.342}%
+\contentsline {subsubsection}{Boxing}{76}{section*.343}%
+\contentsline {subsubsection}{Canoe/Kayak}{76}{section*.344}%
+\contentsline {subsubsection}{Climbing}{76}{section*.345}%
+\contentsline {subsubsection}{Cycling}{76}{section*.346}%
+\contentsline {paragraph}{BMX}{76}{section*.347}%
+\contentsline {paragraph}{Mountain}{76}{section*.348}%
+\contentsline {paragraph}{Road}{76}{section*.349}%
+\contentsline {paragraph}{Track}{76}{section*.350}%
+\contentsline {subsubsection}{Diving}{76}{section*.351}%
+\contentsline {subsubsection}{Equestrian}{76}{section*.352}%
+\contentsline {paragraph}{Dressage}{76}{section*.353}%
+\contentsline {paragraph}{Jumping}{76}{section*.354}%
+\contentsline {paragraph}{Eventing}{76}{section*.355}%
+\contentsline {subsubsection}{Fencing}{77}{section*.356}%
+\contentsline {subsubsection}{Field Hockey}{77}{section*.357}%
+\contentsline {subsubsection}{Golf}{77}{section*.358}%
+\contentsline {subsubsection}{Gymnastics}{77}{section*.359}%
+\contentsline {subsubsection}{Handball}{77}{section*.360}%
+\contentsline {subsubsection}{Judo}{77}{section*.361}%
+\contentsline {subsubsection}{Karate}{77}{section*.362}%
+\contentsline {subsubsection}{Modern Pentathlon}{77}{section*.363}%
+\contentsline {subsubsection}{Roller Sport}{77}{section*.364}%
+\contentsline {subsubsection}{Rowing}{77}{section*.365}%
+\contentsline {subsubsection}{Rugby 7's}{77}{section*.366}%
+\contentsline {subsubsection}{Sailing}{77}{section*.367}%
+\contentsline {subsubsection}{Shooting}{77}{section*.368}%
+\contentsline {subsubsection}{Soccer}{77}{section*.369}%
+\contentsline {subsubsection}{Swimming}{77}{section*.370}%
+\contentsline {subsubsection}{Surfing}{77}{section*.371}%
+\contentsline {subsubsection}{Synchronized Swimming}{77}{section*.372}%
+\contentsline {subsubsection}{Table Tennis}{77}{section*.373}%
+\contentsline {subsubsection}{Taekwondo}{77}{section*.374}%
+\contentsline {subsubsection}{Tennis}{77}{section*.375}%
+\contentsline {subsubsection}{Track and Field}{77}{section*.376}%
+\contentsline {subsubsection}{Triathlon}{77}{section*.377}%
+\contentsline {subsubsection}{Volleyball (Indoor)}{77}{section*.378}%
+\contentsline {subsubsection}{Water Polo}{77}{section*.379}%
+\contentsline {subsubsection}{Weightlifting}{77}{section*.380}%
+\contentsline {subsubsection}{Wrestling}{77}{section*.381}%
+\contentsline {subsection}{\numberline {11.3.2}Winter Olympics}{78}{subsection.11.3.2}%
+\contentsline {subsubsection}{Alpine Skiing}{78}{section*.382}%
+\contentsline {subsubsection}{Biathalon}{78}{section*.383}%
+\contentsline {subsubsection}{Bobsleigh}{78}{section*.384}%
+\contentsline {subsubsection}{Cross Country Skiing}{78}{section*.385}%
+\contentsline {subsubsection}{Curling}{78}{section*.386}%
+\contentsline {subsubsection}{Figure Skating}{78}{section*.387}%
+\contentsline {subsubsection}{Freestyle Skiing}{78}{section*.388}%
+\contentsline {subsubsection}{Ice Hockey}{78}{section*.389}%
+\contentsline {subsubsection}{Luge}{78}{section*.390}%
+\contentsline {subsubsection}{Nordic Combined}{78}{section*.391}%
+\contentsline {subsubsection}{Short Track Skating}{78}{section*.392}%
+\contentsline {subsubsection}{Skeleton}{78}{section*.393}%
+\contentsline {subsubsection}{Ski Jumping}{78}{section*.394}%
+\contentsline {subsubsection}{Snowboarding}{78}{section*.395}%
+\contentsline {subsubsection}{Speed Skating}{78}{section*.396}%
+\contentsline {chapter}{\numberline {12}Theology and Philosophy}{79}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Philosophy}{79}{section.12.1}%
+\contentsline {subsection}{\numberline {12.1.1}Western Philosophy}{79}{subsection.12.1.1}%
+\contentsline {subsubsection}{Ancient Philosophy}{79}{section*.397}%
+\contentsline {paragraph}{Atomists}{79}{section*.398}%
+\contentsline {paragraph}{Sophists}{79}{section*.399}%
+\contentsline {paragraph}{Socrates}{79}{section*.400}%
+\contentsline {paragraph}{Plato}{79}{section*.401}%
+\contentsline {paragraph}{Aristotle}{79}{section*.402}%
+\contentsline {subsubsection}{Medieval Philosophy}{79}{section*.403}%
+\contentsline {paragraph}{Thomas Aquinas}{79}{section*.404}%
+\contentsline {paragraph}{William of Ockham}{79}{section*.405}%
+\contentsline {paragraph}{Bonaventure}{79}{section*.406}%
+\contentsline {paragraph}{Scotus}{79}{section*.407}%
+\contentsline {paragraph}{Roger Bacon}{79}{section*.408}%
+\contentsline {subsubsection}{Modern Philosophy}{79}{section*.409}%
+\contentsline {paragraph}{Des Cartes}{79}{section*.410}%
+\contentsline {subsubsection}{Contemporary Philosophy}{80}{section*.411}%
+\contentsline {paragraph}{Postmodernism}{80}{section*.412}%
+\contentsline {paragraph}{Post-Postmodernism}{80}{section*.413}%
+\contentsline {section}{\numberline {12.2}Theology}{80}{section.12.2}%
+\contentsline {subsection}{\numberline {12.2.1}Abrahamic Religions}{80}{subsection.12.2.1}%
+\contentsline {subsubsection}{Judaism}{80}{section*.414}%
+\contentsline {subsubsection}{Christianity}{80}{section*.415}%
+\contentsline {subsubsection}{Islam}{80}{section*.416}%
+\contentsline {subsection}{\numberline {12.2.2}Other Religions}{80}{subsection.12.2.2}%
+\contentsline {subsubsection}{Buddhist}{80}{section*.417}%
+\contentsline {subsubsection}{Hindu}{80}{section*.418}%
+\contentsline {chapter}{\numberline {13}Miscellaneous}{81}{chapter.13}%

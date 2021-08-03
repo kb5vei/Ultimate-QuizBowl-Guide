@@ -8,7 +8,9 @@
 \newcommand{\mytitle}{Ultimate QuizBowl Guide}
 \usepackage{cleveref}
 \usepackage{longtable}
-
+\newcommand\twodigits[1]{%
+	\ifnum#1<10 0#1\else #1\fi
+}
 
 
 \begin{document}
@@ -17,7 +19,7 @@
 
 	
 	\author{Jonas Williamson}
-	\date{Version \the\year\the\month\the\day}
+	\date{Version \the\year\twodigits{\the\month}\the\day}
 	\maketitle
 	\begin{center}
 
